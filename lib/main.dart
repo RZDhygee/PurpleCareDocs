@@ -1,113 +1,161 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import 'package:flutter_localizations/flutter_localizations.dart';
+import 'package:flutter_secure_storage/flutter_secure_storage.dart';
+import 'package:get_it/get_it.dart';
+import 'package:onesignal_flutter/onesignal_flutter.dart';
+import 'package:purplecaredocs/authentication/registration.dart';
+import 'package:purplecaredocs/components/middleware.dart';
+import 'package:purplecaredocs/components/utily.dart';
+import 'package:purplecaredocs/intro/intro.dart';
+import 'package:purplecaredocs/language/language.dart';
+import 'package:purplecaredocs/utils/notifications.dart';
+import 'dart:io' show Platform;
+
+import 'package:purplecaredocs/utils/utils.dart';
+import 'package:shared_preferences/shared_preferences.dart';
+
+import 'authentication/login.dart';
+import 'components/settings.dart';
+
+GetIt locator = GetIt();
+
+void initOneSignalSettings() async{
+  if (Platform.isAndroid)
+    {
+      OneSignal.shared.init(Utils.ONE_SIGNAL_KEY);
+    }
+  else if (Platform.isIOS)
+    {
+      OneSignal.shared.init(
+        Utils.ONE_SIGNAL_KEY,
+        iOSSettings:
+          {
+            OSiOSSettings.autoPrompt: false,
+            OSiOSSettings.inAppLaunchUrl: true
+          });
+      OneSignal.shared.promptUserForPushNotificationPermission();
+
+      bool allowed = await OneSignal.shared.promptUserForPushNotificationPermission();
+
+      print('initOneSignal(): here I get there with allowed= $allowed');
+
+      if (Platform.isIOS)
+      {
+        OneSignal.shared.setSubscriptionObserver((OSSubscriptionStateChanges changes) async
+        {
+          var status = await OneSignal.shared.getPermissionSubscriptionState();
+
+          var playerId = status.subscriptionStatus.userId;
+          NotificationsSettings.playerId = playerId;
+
+          OneSignal.shared.setInFocusDisplayType(
+              OSNotificationDisplayType.notification);
+        });
+      }
+    }
+  var status = await OneSignal.shared.getPermissionSubscriptionState();
+
+  var playerId = status.subscriptionStatus.userId;
+  NotificationsSettings.playerId = playerId;
+
+  print("#######################################");
+  print('PlayerId: ${NotificationsSettings.playerId}');
+  print("#######################################");
+
+  OneSignal.shared.setInFocusDisplayType(OSNotificationDisplayType.notification);
+}
 
 void main() {
-  runApp(MyApp());
+  WidgetsFlutterBinding.ensureInitialized();
+  initSharedPreferences();
+  setuplocator();
+
 }
 
-class MyApp extends StatelessWidget {
-  // This widget is the root of your application.
+void setuplocator(){
+  locator.registerLazySingleton(() => NavigationService());
+}
+
+void initSharedPreferences() async{
+  FlutterSecureStorage storage;
+  final prefs = await SharedPreferences.getInstance();
+
+  if (prefs.getBool('first_run') ?? true)
+    {
+      try{
+        storage = FlutterSecureStorage();
+        await storage.deleteAll();
+      } catch(e){
+        print(e);
+      }
+
+      prefs.setBool('first_run', false);
+
+      SecureStorageData.data = Map();
+
+      runApp(MyApp(true));
+    }
+  else
+    {
+      try{
+        storage = FlutterSecureStorage();
+        storage.readAll().then((map) {
+          runApp(MyApp(SecureStorageData.data["first_access"] == null));
+        });
+      } catch(e){
+        runApp(MyApp(SecureStorageData.data["first_access"] == null));
+      }
+      }
+}
+
+
+class MyApp extends StatelessWidget
+{
+
+  bool firstAccess;
+  MyApp(this.firstAccess);
+
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Flutter Demo',
+
+    SystemChrome.setPreferredOrientations([
+      DeviceOrientation.portraitUp,
+      DeviceOrientation.portraitDown
+    ]);
+
+    initOneSignalSettings();
+
+    return new MaterialApp(
+      debugShowCheckedModeBanner: Settings.debug,
+      supportedLocales: [
+        Locale('en', 'US'),
+        Locale('it', 'IT'),
+        Locale('pl', 'PL'),
+        Locale('de', 'DE'),
+        Locale('fr', 'FR'),
+        Locale('es', 'ES'),
+      ],
+      localizationsDelegates: [
+        AppLocalizations.delegate,
+        GlobalMaterialLocalizations.delegate,
+        GlobalWidgetsLocalizations.delegate,
+        GlobalCupertinoLocalizations.delegate,
+        DefaultCupertinoLocalizations.delegate
+      ],
+      title:'Purple Care' ,
       theme: ThemeData(
-        // This is the theme of your application.
-        //
-        // Try running your application with "flutter run". You'll see the
-        // application has a blue toolbar. Then, without quitting the app, try
-        // changing the primarySwatch below to Colors.green and then invoke
-        // "hot reload" (press "r" in the console where you ran "flutter run",
-        // or simply save your changes to "hot reload" in a Flutter IDE).
-        // Notice that the counter didn't reset back to zero; the application
-        // is not restarted.
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.deepPurple,
+        fontFamily: 'Avenir'
       ),
-      home: MyHomePage(title: 'Flutter Demo Home Page'),
+      navigatorKey: locator<NavigationService>().navigatorKey,
+      home: firstAccess?
+          IntroWidget() :
+          SecureStorageData.data["email"] != null && SecureStorageData.data["email"] != "" &&
+          SecureStorageData.data["password"] != null && SecureStorageData.data["password"] != "" ?
+              LoginWidget(): RegistrationWidget()
     );
   }
 }
 
-class MyHomePage extends StatefulWidget {
-  MyHomePage({Key key, this.title}) : super(key: key);
-
-  // This widget is the home page of your application. It is stateful, meaning
-  // that it has a State object (defined below) that contains fields that affect
-  // how it looks.
-
-  // This class is the configuration for the state. It holds the values (in this
-  // case the title) provided by the parent (in this case the App widget) and
-  // used by the build method of the State. Fields in a Widget subclass are
-  // always marked "final".
-
-  final String title;
-
-  @override
-  _MyHomePageState createState() => _MyHomePageState();
-}
-
-class _MyHomePageState extends State<MyHomePage> {
-  int _counter = 0;
-
-  void _incrementCounter() {
-    setState(() {
-      // This call to setState tells the Flutter framework that something has
-      // changed in this State, which causes it to rerun the build method below
-      // so that the display can reflect the updated values. If we changed
-      // _counter without calling setState(), then the build method would not be
-      // called again, and so nothing would appear to happen.
-      _counter++;
-    });
-  }
-
-  @override
-  Widget build(BuildContext context) {
-    // This method is rerun every time setState is called, for instance as done
-    // by the _incrementCounter method above.
-    //
-    // The Flutter framework has been optimized to make rerunning build methods
-    // fast, so that you can just rebuild anything that needs updating rather
-    // than having to individually change instances of widgets.
-    return Scaffold(
-      appBar: AppBar(
-        // Here we take the value from the MyHomePage object that was created by
-        // the App.build method, and use it to set our appbar title.
-        title: Text(widget.title),
-      ),
-      body: Center(
-        // Center is a layout widget. It takes a single child and positions it
-        // in the middle of the parent.
-        child: Column(
-          // Column is also a layout widget. It takes a list of children and
-          // arranges them vertically. By default, it sizes itself to fit its
-          // children horizontally, and tries to be as tall as its parent.
-          //
-          // Invoke "debug painting" (press "p" in the console, choose the
-          // "Toggle Debug Paint" action from the Flutter Inspector in Android
-          // Studio, or the "Toggle Debug Paint" command in Visual Studio Code)
-          // to see the wireframe for each widget.
-          //
-          // Column has various properties to control how it sizes itself and
-          // how it positions its children. Here we use mainAxisAlignment to
-          // center the children vertically; the main axis here is the vertical
-          // axis because Columns are vertical (the cross axis would be
-          // horizontal).
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: <Widget>[
-            Text(
-              'You have pushed the button this many times:',
-            ),
-            Text(
-              '$_counter',
-              style: Theme.of(context).textTheme.headline4,
-            ),
-          ],
-        ),
-      ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: _incrementCounter,
-        tooltip: 'Increment',
-        child: Icon(Icons.add),
-      ), // This trailing comma makes auto-formatting nicer for build methods.
-    );
-  }
-}

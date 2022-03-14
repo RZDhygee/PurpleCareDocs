@@ -1,0 +1,3449 @@
+{
+  "video_upload": {
+    "en": "Upload video from gallery",
+    "it": "Carica video dalla galleria",
+    "pl": "Prześlij wideo z galerii",
+    "de": "Video aus der Galerie hochladen",
+    "fr": "Télécharger une vidéo depuis la galerie",
+    "es": "Subir video de la galería"
+  },
+
+  "video_record_video": {
+    "en": "Record a video",
+    "it": "Registra un video",
+    "pl": "Nagraj wideo",
+    "de": "Nimm ein Video auf",
+    "fr": "Enregistrer une vidéo",
+    "es": "Grabar un video"
+  },
+
+  "video_skip": {
+    "en": "Skip",
+    "it": "Salta",
+    "pl": "Pomiń",
+    "de": "Überspringen",
+    "fr": "Suivant",
+    "es": "Pasar"
+  },
+
+  "video_back": {
+    "en": "Back to menu",
+    "it": "Torna al menu",
+    "pl": "Wróć do menu głównego",
+    "de": "Zurück zum Menü",
+    "fr": "Retour au menu",
+    "es": "Volver al menú "
+  },
+
+  "video_record_seizure": {
+    "en": "Record a seizure",
+    "it": "Registra una crisi",
+    "pl": "Nagraj napad",
+    "de": "Anfall aufnehmen",
+    "fr": "Enregistrer une crise",
+    "es": "Grabar una crisis"
+  },
+
+  "video_click": {
+    "en": "Click here to upload a video",
+    "it": "Clicca qui per caricare un video",
+    "pl": "Kliknij tutaj aby przesłać wideo",
+    "de": "Klick hier um ein Video hochzuladen",
+    "fr": "Cliquez ici pour télécharger une vidéo",
+    "es": "Haga clic aquí para subir un video"
+  },
+
+  "home_well_done": {
+    "en": "Well done!",
+    "it": "Molto bene!",
+    "pl": "Dobra robota!",
+    "de": "Gut gemacht!",
+    "fr": "Félicitation!",
+    "es": "¡Bien hecho!"
+  },
+
+  "home_well_done_msg": {
+    "en": "You have completed all your \nactivities for today.",
+    "it": "Hai completato tutte le tue \nattività di oggi.",
+    "pl": "Ukończyłaś/-łeś dzisiaj \nwszystkie swoje zajęcia.",
+    "de": "Du hast heute alle deine \nAktivitäten abgeschlossen",
+    "fr": "Vous avez terminé toutes \nvos activités du jour.",
+    "es": "Ha completado todas sus \nactividades de hoy."
+  },
+
+  "chat_connection": {
+    "en": "To activate this function your \ndoctor needs to send you a request of connection.\nIf your doctor is not aware of the process, he can contact contact@dhygee.com",
+    "it": "Per attivare questa funzione, il medico deve inviarti una richiesta di connessione.\nSe il medico non è a conoscenza di questo, può contattare contact@dhygee.com",
+    "pl": "Aby aktywować tę funkcję, Twój \ndoktor musi wysłać Ci żądanie połączenia. \nJeśli twój lekarz nie jest świadomy tego procesu, może skontaktować się z contact@dhygee.com",
+    "de": "Um diese Funktion zu aktivieren, muss dein Arzt Ihnen eine\nVerbindungsanfrage senden. \nWenn dein Arzt den Vorgang nicht kennt, kann er/sie sich an contact@dhygee.com wenden",
+    "fr": "Pour activer cette fonction, \nvotre médecin doit vous envoyer une demande de connexion. \nSi votre médecin ne sait pas comment faire, \nil peut nous contacter sur contact@dhygee.com",
+    "es": "Para activar esta función, su \ndoctor necesita enviarle una solicitud de conexión. \nSi su médico no conoce el proceso, puede contactar contact@dhygee.com "
+  },
+
+  "report_days_string": {
+    "en": "days",
+    "it": "giorni",
+    "pl": "dni",
+    "de": "Tage",
+    "fr": "jours",
+    "es": "días"
+  },
+
+  "report_noseizure_day": {
+    "en": "Seizure-free report",
+    "it": "Report senza crisi",
+    "pl": "Raport o dniach bez napadu",
+    "de": "Bericht über Tage ohne Anfälle",
+    "fr": "Suivit des périodes sans crises",
+    "es": "Reporte sin crisis"
+  },
+
+  "appbar_ketodiet": {
+    "en": "Ketogenic diet",
+    "it": "Dieta ketogenica",
+    "pl": "Dieta ketogeniczna",
+    "de": "Ketogene Diät",
+    "fr": "Régime cétogène",
+    "es": "Dieta cetogénica"
+  },
+
+  "appbar_emergencyroom": {
+    "en": "Emergency room",
+    "it": "Pronto soccorso",
+    "pl": "Pogotowie",
+    "de": "Notaufnahme",
+    "fr": "Urgences",
+    "es": "Sala de emergencias"
+  },
+
+  "contact": {
+    "en": "Type a message...",
+    "it": "Scrivi un messaggio…",
+    "pl": "Napisz wiadomość…",
+    "de": "Gib eine Nachricht ein…",
+    "fr": "Écrire un message…",
+    "es": "Escribe un mensaje..."
+  },
+
+  "no_data_yet": {
+    "en": "No data yet",
+    "it": "Nessun dato ancora disponibile",
+    "pl": "Brak danych",
+    "de": "Noch keine Daten",
+    "fr": "Pas encore de données",
+    "es": "Aún no hay datos"
+  },
+
+  "home_complete_patient": {
+    "en": "Complete patient data",
+    "it": "Completa i dati del paziente",
+    "pl": "Uzupełnij dane pacjenta",
+    "de": "Vervollständige die Patienteninformationen",
+    "fr": "Compléter les données patient",
+    "es": "Complete los datos del paciente"
+  },
+
+  "home_complete_patient_visible": {
+    "en": "Visible to your doctor",
+    "it": "Visibile al tuo medico",
+    "pl": "Widoczny dla twojego lekarza",
+    "de": "Sichtbar für deinen Arzt",
+    "fr": "Accéssible à votre médecin",
+    "es": "Visible para su médico"
+  },
+
+  "home_pat_treat": {
+    "en": "Add patient treatment",
+    "it": "Aggiungi trattamento",
+    "pl": "Dodaj leczenie pacjenta",
+    "de": "Patientenbehandlung hinzufügen",
+    "fr": "Ajouter un traitement",
+    "es": "Agregar el tratamiento"
+  },
+
+  "home_pat_treat_set": {
+    "en": "Set your reminders",
+    "it": "Imposta i tuoi promemoria",
+    "pl": "Ustaw swoje przypomnienia",
+    "de": "Stell deine Erinnerungen ein",
+    "fr": "Paramétrez vos rappels",
+    "es": "Configura tus recordatorios"
+  },
+
+  "home_schedule_h_diary": {
+    "en": "Schedule the health diary",
+    "it": "Imposta il diario della salute",
+    "pl": "Zaplanuj dziennik zdrowia",
+    "de": "Plane das Gesundheitstagebuch",
+    "fr": "Planifiez les entrées dans \nvotre journal de bord médical",
+    "es": "Programar el diario de salud"
+  },
+
+  "home_schedule_h_diary_note": {
+    "en": "Note symptomps and seizures",
+    "it": "Nota sintomi e crisi",
+    "pl": "Zanotuj objawy i napady",
+    "de": "Symptome und Anfälle notieren",
+    "fr": "Ajouter symptômes et crises",
+    "es": "Anotar síntomas y crisis"
+  },
+
+  "intro_skip": {
+    "en": "Skip ",
+    "it": "Salta ",
+    "pl": "Pomiń",
+    "de": "Überspringen",
+    "fr": "Suivant",
+    "es": "Saltar"
+  },
+
+  "registration_please": {
+    "en": "Please complete your profile.",
+    "it": "Per favore completa il tuo profilo.",
+    "pl": "Uzupełnij swój profil danymi medycznymi pacjenta i zdjęciem",
+    "de": "Bitte vervollständigen Sie Ihr Profil mit den medizinischen Daten und dem Foto des Patienten",
+    "fr": "Merci de compléter votre profile",
+    "es": "Por favor complete su perfil"
+  },
+  "button_create_now": {
+    "en": "CREATE NOW",
+    "it": "CREA ORA",
+    "pl": "STWÓRZ TERAZ",
+    "de": "JETZT ERSTELLEN",
+    "fr": "COMPLETER MAINTENANT",
+    "es": "COMPLETAR AHORA"
+  },
+  "popup_tra_istante": {
+    "en": "Please try again in a few moments",
+    "it": "Riprova tra qualche istante",
+    "pl": "Spróbuj ponownie za chwilę",
+    "de": "Bitte versuch es gleich noch einmal",
+    "fr": "Veuillez réessayer dans un instant",
+    "es": "Vuelva a intentarlo en unos instantes"
+  },
+  "health_diary_purplecare": {
+    "en": "PurpleCare is not a substitute to your \nregular medical follow-up. For all medical \nquestions or actions please refer to your doctor.",
+    "it": "PurpleCare non sostituisce il normale \ncontrollo medico. Per tutte le domande \nsi prega di fare riferimento al proprio medico.",
+    "pl": "PurpleCare to system spójny z aktualnymi wytycznymi do praktyki klinicznej i nie może być uznawany za jej alternatywę. \nNagłych przypadkach skontaktuj się z twoim ośrodkiem referencyjnym",
+    "de": "PurpleCare ist ein System das mit der aktuellen klinischen Praxis integriert ist und kann nicht als Alternative dazu betrachtet werden",
+    "fr": "PurpleCare est un outil complémentaire à la \nbonne pratique clinique actuelle et ne peut pas \nêtre considéré comme une alternative. \nEn cas d'urgence, veuillez contacter votre \ncentre de référence habituel",
+    "es": "PurpleCare no sustituye a su \nseguimiento médico habitual \nPara todas las preguntas o acciones médicas \nconsulte con su médico."
+  },
+  "home_home": {
+    "en": "Home",
+    "it": "Home",
+    "pl": "Menu",
+    "de": "Home",
+    "fr": "Home",
+    "es": "Menú"
+  },
+  "profile_surname": {
+    "en": "Last name",
+    "it": "Cognome",
+    "pl": "Nazwisko",
+    "de": "Nachname",
+    "fr": "Nom de famille",
+    "es": "Apellido"
+  },
+  "add_photo_delete": {
+    "en": "Delete",
+    "it": "Cancella",
+    "pl": "Skasuj",
+    "de": "Löschen",
+    "fr": "Supprimer",
+    "es": "Borrar"
+  },
+  "treat_type": {
+    "en": "Type of intake",
+    "it": "Tipo di assunzione",
+    "pl": "Sposob przyjmowania",
+    "de": "Art von Medikamenteneinnahme",
+    "fr": "Forme pharmaceutique (galénique)",
+    "es": "Forma farmaceútica"
+  },
+  "sintomi_recent": {
+    "en": "Recent",
+    "it": "Recente",
+    "pl": "Ostatnie",
+    "de": "Kürzlich",
+    "fr": "Récent",
+    "es": "Reciente"
+  },
+  "treatments_no": {
+    "en": "NO, I DIDN'T",
+    "it": "NO, NON L'HO ASSUNTO",
+    "pl": "NIE, NIE WZIĘŁAM/NIE WZIĄŁEM",
+    "de": "NEIN",
+    "fr": "NON, JE NE L'AI PAS PRIS",
+    "es": "No, no lo he tomado"
+  },
+  "profile_conf_psw": {
+    "en": "Confirm password",
+    "it": "Conferma password",
+    "pl": "Potwierdź hasło",
+    "de": "Passwort bestätigen",
+    "fr": "Confirmer le mot de passe",
+    "es": "Confirmar contraseña"
+  },
+  "profile_edit": {
+    "en": "EDIT YOUR ACCOUNT INFO",
+    "it": "CAMBIA LE INFORMAZIONI DEL TUO ACCOUNT",
+    "pl": "MODYFIKUJ INFORMACJE O TWOIM KONCIE",
+    "de": "KONTOINFORMATIONEN BEARBEITEN",
+    "fr": "GERER VOTRE COMPTE",
+    "es": "EDITAR SU CUENTA"
+  },
+  "todo_activities_diagnosi": {
+    "en": "Diagnosis",
+    "it": "Diagnosi",
+    "pl": "Diagnoza",
+    "de": "Diagnose",
+    "fr": "Diagnostique",
+    "es": "Diagnóstico"
+  },
+  "sintomi_intensity": {
+    "en": "Intensity",
+    "it": "Intensità",
+    "pl": "Intensywność",
+    "de": "Intensität",
+    "fr": "Intensité",
+    "es": "Intensidad"
+  },
+  "treat_start_hint": {
+    "en": "Treatment start date (DD/MM/YYYY)",
+    "it": "Data iniziale del trattamento (GG/MM/AAAA)",
+    "pl": "Data rozpoczęcia leczenia (DD/MM/RRRR)",
+    "de": "Behandlungsbeginn (TT/MM/JJJJ)",
+    "fr": "Debut du tratement (JJ/MM/AAAA)",
+    "es": "Fecha inicio del tratmiento (DD/MM/AAAA)"
+  },
+  "profile_online_cons": {
+    "en": "Online consultation",
+    "it": "Consulto medico online",
+    "pl": "Konsultacja online",
+    "de": "Online-Beratung",
+    "fr": "Téléconsultation",
+    "es": "Consulta online"
+  },
+  "button_cancel_reminder": {
+    "en": "DELETE",
+    "it": "CANCELLA",
+    "pl": "ANULUJ",
+    "de": "STORNIEREN",
+    "fr": "SUPPRIMER",
+    "es": "BORRAR"
+  },
+  "intro_2sub": {
+    "en": "Receive treatment reminders and keep track\nof your medication usage.",
+    "it": "Ricevi promemoria dei trattamenti e tieni traccia \ndel tuo uso di farmaci.",
+    "pl": "Otrzymuj przypomnienia \no leczeniu i śledź przyjmowanie leków",
+    "de": "Behandlugserrinerungen erhalten und deinen Medikamentenverbrauch verfolgen",
+    "fr": "Gérer vos traitements et visualisez leurs usages",
+    "es": "Reciba recordatorios de tratamiento \ny realice un seguimiento del uso \n de sus medicamentos."
+  },
+  "regsteps_firstname": {
+    "en": "Your first name",
+    "it": "Il tuo nome",
+    "pl": "Twoje imię",
+    "de": "Ihr Vorname",
+    "fr": "Votre prénom",
+    "es": "Su nombre"
+  },
+  "registration_later": {
+    "en": "COMPLETE LATER",
+    "it": "COMPLETA PIU’ TARDI",
+    "pl": "UZUPEŁNIJ PÓŹNIEJ",
+    "de": "VERVOLLSTÄNDIGE ES SPÄTER",
+    "fr": "COMPLETER PLUS TARD",
+    "es": "Completar más tarde"
+  },
+  "exam_remind": {
+    "en": "Remind me",
+    "it": "Ricordami",
+    "pl": "Przypomnij mi",
+    "de": "Errinere mich",
+    "fr": "Créer un rappel",
+    "es": "Recuerdame"
+  },
+  "exam_schedule": {
+    "en": "Schedule",
+    "it": "Orario",
+    "pl": "Zaplanuj",
+    "de": "Planen",
+    "fr": "Heure du rendez-vous",
+    "es": "Horario"
+  },
+  "treat_review": {
+    "en": "Review treatment",
+    "it": "Revisiona il trattamento",
+    "pl": "Zaktualizuj leczenie",
+    "de": "Behandlung überprüfen",
+    "fr": "Voir mes traitements",
+    "es": "Revisar tratamiento"
+  },
+  "treat_dosi_errate": {
+    "en": "Some of the doses are not written properly",
+    "it": "Alcune dosi non sono scritte correttamente",
+    "pl": "Niektóre dawki nie są poprawnie napisane",
+    "de": "Einige der Dosen sind nicht richtig geschrieben",
+    "fr": "Certain dosages n'ont pas été correctement renseignés",
+    "es": "Algunas de las dosis no están escritas correctamente"
+  },
+  "treat_ex_dose": {
+    "en": "Ex: 25",
+    "it": "Es: 25",
+    "pl": "Np. 25",
+    "de": "z.B. 25",
+    "fr": "Ex: 25",
+    "es": "Ej: 25"
+  },
+  "visit_ex_name": {
+    "en": "Ex: Dr. Richardson",
+    "it": "Ad es: Dott. Rossi",
+    "pl": "Np. Dr. Kowalski",
+    "de": "z.B. Dr. Richardson",
+    "fr": "Ex: Dr. Martin",
+    "es": "Ej: Dr. Gómez"
+  },
+  "treat_period": {
+    "en": "Period",
+    "it": "Durata",
+    "pl": "Przedział czasowy",
+    "de": "Zeitraum",
+    "fr": "Durée de traitement",
+    "es": "Duración del tratamiento"
+  },
+  "sintomi_cancel": {
+    "en": "CANCEL SYMPTOMS",
+    "it": "CANCELLA I SINTOMI",
+    "pl": "ANULUJ OBJAWY",
+    "de": "DIE SYMPTOME ABBRECHEN",
+    "fr": "SUPPRIMER UN SYMPTOME",
+    "es": "Suprimir un síntoma"
+  },
+  "health_diary_schedule": {
+    "en": "Schedule you health diary",
+    "it": "Imposta il diario della salute",
+    "pl": "Zaplanuj dziennik zdrowia",
+    "de": "Gesundheitstagebuch planen",
+    "fr": "Programmer les entrées dans de votre journal de bord",
+    "es": "Programe su diario de salud"
+  },
+  "report_seizure": {
+    "en": "Seizure",
+    "it": "Crisi",
+    "pl": "Napad",
+    "de": "Anfall",
+    "fr": "Crise",
+    "es": "Crisis"
+  },
+  "exam_ex_place": {
+    "en": "Ex: Zurich",
+    "it": "Ad es: Roma",
+    "pl": "Np. Warszawa",
+    "de": "z.B. Berlin",
+    "fr": "Ex: 1 rue de la République, Paris",
+    "es": "Ej: La Habana"
+  },
+  "todo_activities_height": {
+    "en": "Height (cm)",
+    "it": "Altezza (cm)",
+    "pl": "Wzrost (cm)",
+    "de": "Höhe (cm)",
+    "fr": "Taille(cm)",
+    "es": "Talla (cm)"
+  },
+  "not_schedule_now": {
+    "en": "SCHEDULE NOW",
+    "it": "IMPOSTA ORA",
+    "pl": "ZAPLANUJ TERAZ",
+    "de": "JETZT PLANEN",
+    "fr": "PLANIFIER MAINTENANT",
+    "es": "PLANIFICAR AHORA"
+  },
+  "treat_inizio_trattamento": {
+    "en": "Start of treatment",
+    "it": "Inizio trattamento",
+    "pl": "Początek leczenia",
+    "de": "Behandlungsbeginn",
+    "fr": "Date de début du traitement",
+    "es": "Fecha de inicio del tratamiento"
+  },
+  "regsteps_coutry_label": {
+    "en": "Country",
+    "it": "Paese",
+    "pl": "Kraj",
+    "de": "Land",
+    "fr": "Pays",
+    "es": "País"
+  },
+  "todo_activities_peso_errato": {
+    "en": "The weight was not typed correctly",
+    "it": "Il peso non è scritto correttamente",
+    "pl": "Waga została wpisana niepoprawnie",
+    "de": "Das Gewicht wurde nicht richtig eingegeben",
+    "fr": "Le poids n'a pas été correctement renseigné",
+    "es": "El peso no se escribió correctamente"
+  },
+  "email_mistaped": {
+    "en": "If you mistyped your email address, please correct it and click Resubmit.",
+    "it": "Se hai sbagliato a scrivere il tuo indirizzo email, puoi correggerlo e cliccare Invia di nuovo",
+    "pl": "Jeśli wpisałaś/wpisałeś nieprawidłowy adres email, popraw go i kliknij Prześlij ponownie",
+    "de": "Wenn Sie Ihre E-Mail-Adresse falsch eingegeben haben, korrigieren Sie sie bitte und klicken Sie auf Erneut Senden",
+    "fr": "Si vous avez fait une erreur dans l'adresse mail entrée, veuillez corriger et soumettre à nouveau",
+    "es": "Si escribió mal su dirección de correo electrónico, corríjala y haga clic en Volver a enviar."
+  },
+  "profile_lang": {
+    "en": "Language",
+    "it": "Lingua",
+    "pl": "Język",
+    "de": "Sprache",
+    "fr": "Langue",
+    "es": "Idioma"
+  },
+  "report_type": {
+    "en": "Type of symtomps",
+    "it": "Tipo di sintomi",
+    "pl": "Rodzaj objawów",
+    "de": "Art der Symptome",
+    "fr": "Symptômes",
+    "es": "Síntomas"
+  },
+  "emergency_protocol_hospitalization": {
+    "en": "Hospitalizations in the last 30 days",
+    "it": "Ricoveri negli ultimi 30 giorni",
+    "pl": "Hospitalizacja w ciągu ostatnich 30 dni",
+    "de": "Krankenhausaufenthalt in den letzten 30 Tagen",
+    "fr": "Nombres d'hospitalisation au cours des 30 derniers jours",
+    "es": "Hospitalizaciones en los últimos 30 días"
+  },
+  "sintomi_share": {
+    "en": "SAVE",
+    "it": "SALVA",
+    "pl": "PODZIEL SIĘ Z TWOIM LEKARZEM",
+    "de": "MIT DEM ARZT TEILEN",
+    "fr": "PARTAGER AVEC VOTRE MEDECIN",
+    "es": "SALVAR"
+  },
+  "sintomi_data_available": {
+    "en": "Your data will be available for your doctor",
+    "it": "I dati saranno disponibili per il tuo medico",
+    "pl": "Twoje dane będą dostępne dla twojego lekarza",
+    "de": "Deine Daten stehen deinem Arzt zur Verfügung",
+    "fr": "Vos données seront disponibles pour votre médecin",
+    "es": "Sus datos estarán disponibles para su médico"
+  },
+  "exam": {
+    "en": "Specialist exams reminders",
+    "it": "Promemoria esami specialistici",
+    "pl": "Przypomnienie o badaniu specjalistycznym",
+    "de": "Erringerungen der fachärztlichen Untersuchungen",
+    "fr": "Rappel de votre rendez-vous chez le spécialiste",
+    "es": "Recordatorios de exámenes especializados"
+  },
+  "treatments_during": {
+    "en": "During which period you plan to follow the ketogenic diet?",
+    "it": "Quando pensi di seguire la dieta ketogenica?",
+    "pl": "Kiedy masz zamiar prowadzić dietę ketogeniczną?",
+    "de": "Wann möchten Sie die ketogene Diät einhalten?",
+    "fr": "Pendant quelle période vous prévoyez de suivre le régime cétogène?",
+    "es": "¿Durante qué período planeas seguir la dieta cetogénica?"
+  },
+  "drawer_data_sharing": {
+    "en": "Data sharing",
+    "it": "Condivisione dati",
+    "pl": "Udostępnianie danych",
+    "de": "Datenaustausch",
+    "fr": "Partager mes données",
+    "es": "Compartir datos"
+  },
+  "treat_rimosso": {
+    "en": "Treatment has been successfully removed",
+    "it": "Trattamento rimosso con successo",
+    "pl": "Leczenie zostało pomyślnie usunięte",
+    "de": "Behandlung wurde erfolgreich entfernt",
+    "fr": "Ce traitement a bien été supprimer",
+    "es": "El tratamiento se ha eliminado con éxito"
+  },
+  "treatments_dose": {
+    "en": "Dose",
+    "it": "Dose",
+    "pl": "Dawka",
+    "de": "Dosis",
+    "fr": "Dose",
+    "es": "Dosis"
+  },
+  "lab_tests_cancel": {
+    "en": "Lab test successfully removed",
+    "it": "Analisi rimossa con successo",
+    "pl": "Badanie laboratoryjne zostało pomyślnie usunięte",
+    "de": "Labortest erfolgreich entfernt",
+    "fr": "Votre rendez-vous d'analyse médicale a bien été supprimé",
+    "es": "Prueba de laboratorio eliminada con éxito"
+  },
+  "drawer_settings": {
+    "en": "Settings",
+    "it": "Impostazioni",
+    "pl": "Ustawienia",
+    "de": "Einstellungen",
+    "fr": "Paramètres",
+    "es": "Configuraciones"
+  },
+  "report_notregistered": {
+    "en": "Not registered",
+    "it": "Non registrato",
+    "pl": "Niezarejestrowany",
+    "de": "Nicht registriert",
+    "fr": "Non enregistré",
+    "es": "No registrado"
+  },
+  "registration_forgot": {
+    "en": "Forgot your password?",
+    "it": "Hai dimenticato la tua password?",
+    "pl": "Zapomniałaś/Zapomniałeś hasło?",
+    "de": "Passwort vergessen?",
+    "fr": "Avez-vous oubliez votre mot de passe?",
+    "es": "¿Olvidó su contraseña?"
+  },
+  "treatments_for_visit": {
+    "en": "For a visit",
+    "it": "Per una visita",
+    "pl": "W celu wizyty",
+    "de": "Für einen Besuch",
+    "fr": "Pour une visite",
+    "es": "Para una visita"
+  },
+  "treatments_start_date": {
+    "en": "Start date",
+    "it": "Data di inizio",
+    "pl": "Data początkowa",
+    "de": "Anfangsdatum",
+    "fr": "Date de début",
+    "es": "Fecha de inicio"
+  },
+  "lab_tests_place": {
+    "en": "Address",
+    "it": "Luogo",
+    "pl": "Miejscowość",
+    "de": "Ort",
+    "fr": "Adresse",
+    "es": "Dirección"
+  },
+  "visit_visit_date": {
+    "en": "Visit date",
+    "it": "Data della visita",
+    "pl": "Data wizyty",
+    "de": "Besuchsdatum",
+    "fr": "Jour du rendez-vous",
+    "es": "Fecha de visita"
+  },
+  "grid6_1": {
+    "en": "Record/upload a seizure",
+    "it": "Registra/carica una crisi",
+    "pl": "Zapisz/Prześlij napad",
+    "de": "Anfall aufnehmen/hochladen",
+    "fr": "Enregistrer ou ajouter une vidéo de crise",
+    "es": "Grabar/subir una crisis"
+  },
+  "grid6_2": {
+    "en": "Add a seizure manually",
+    "it": "Aggiungi crisi manualmente",
+    "pl": "Dodaj napad ręcznie",
+    "de": "Anfall manuell hinzufügen",
+    "fr": "Enregistrer manuellement une crise",
+    "es": "Adicionar una crisis manualmente"
+  },
+  "grid6_3": {
+    "en": "Add \na treatment",
+    "it": "Aggiungi \nun trattamento",
+    "pl": "Dodaj \nleczenie",
+    "de": "Behandlung \nhinzufügen",
+    "fr": "Ajouter un \nnouveau traitement",
+    "es": "Adicionar \nun tratamiento"
+  },
+  "grid6_4": {
+    "en": "Add visits to a doctor",
+    "it": "Aggiungi visite mediche",
+    "pl": "Dodaj wizytę lekarską",
+    "de": "Arztbesuche hinzufügen",
+    "fr": "Ajouter un rendez-vous \nchez le généraliste",
+    "es": "Adicionar visita al médico"
+  },
+  "drawer_exams": {
+    "en": "My specialist exams",
+    "it": "I miei esami specialistici",
+    "pl": "Moje badanie specjalistyczne",
+    "de": "Meine fachärztliche Untersuchungen",
+    "fr": "Rendez-vous chez mon spécialiste",
+    "es": "Mis exámenes especializados"
+  },
+  "grid6_5": {
+    "en": "Add specialist exams",
+    "it": "Aggiungi esami specialistici",
+    "pl": "Dodaj badanie specjalistyczne",
+    "de": "Fachärztliche Untersuchungen hinzufügen",
+    "fr": "Ajouter un rendez-vous chez le spécialiste",
+    "es": "Adicionar exámenes especializados"
+  },
+  "grid6_6": {
+    "en": "Add laboratory tests",
+    "it": "Aggiungi analisi",
+    "pl": "Dodaj badanie laboratoryjne",
+    "de": "Labortests hinzufügen",
+    "fr": "Ajouter un rendez-vous d'analyse médicale",
+    "es": "Adicionar pruebas de laboratorio"
+  },
+  "lab_tests_save": {
+    "en": "Lab test successfully saved",
+    "it": "Analisi salvata con successo",
+    "pl": "Badanie laboratoryjne zostało pomyślnie zapisane",
+    "de": "Labortest erfolgreich entfernt",
+    "fr": "Votre rendez-vous d'analyse médicale a été enregistré avec succès",
+    "es": "Prueba de laboratorio guardada correctamente"
+  },
+  "registration_email_field": {
+    "en": "E-mail",
+    "it": "E-mail",
+    "pl": "Email",
+    "de": "E-Mail",
+    "fr": "E-mail",
+    "es": "Email"
+  },
+  "visit_review": {
+    "en": "Review the visit reminder",
+    "it": "Revisiona il promemoria della visita",
+    "pl": "Zaktualizuj przypomnienie o wizycie",
+    "de": "Besuchserrinerung überprüfen",
+    "fr": "Afficher les rappels de rendez-vous chez le généraliste",
+    "es": "Revise el recordatorio de la visita"
+  },
+  "exam_review": {
+    "en": "Review the visit reminder",
+    "it": "Revisiona il promemoria della visita",
+    "pl": "Zaktualizuj przypomnienie o wizycie",
+    "de": "Besuchserrinerung überprüfen",
+    "fr": "Afficher les rappels de rendez-vous chez le spécialiste",
+    "es": "Revise el recordatorio de visita"
+  },
+  "regsteps_caregiver": {
+    "en": "Caregiver",
+    "it": "Caregiver",
+    "pl": "Opiekun",
+    "de": "Pflegekraft",
+    "fr": "Aidant",
+    "es": "Cuidador"
+  },
+  "lab_tests_add": {
+    "en": "Add laboratory tests",
+    "it": "Aggiungi analisi",
+    "pl": "Dodaj badanie laboratoryjne",
+    "de": "Labortest hinzufügen",
+    "fr": "Ajouter un rendez-vous d'analyse médicale",
+    "es": "Adicionar pruebas de laboratorio"
+  },
+  "not_see_now": {
+    "en": "SEE NOW",
+    "it": "VEDI ORA",
+    "pl": "ZOBACZ TERAZ",
+    "de": "SIEHE JETZT",
+    "fr": "VOIR MAINTENANT",
+    "es": "VER AHORA"
+  },
+  "profile_weight": {
+    "en": "Weight",
+    "it": "Peso",
+    "pl": "Waga",
+    "de": "Gewicht",
+    "fr": "Poids",
+    "es": "Peso"
+  },
+  "popup_ok": {
+    "en": "OK",
+    "it": "OK",
+    "pl": "OK",
+    "de": "OK",
+    "fr": "OK",
+    "es": "OK"
+  },
+  "treat_dose_mancante": {
+    "en": "Missing dose",
+    "it": "Dose mancante",
+    "pl": "Pominięta dawka",
+    "de": "Fehlende Dosis",
+    "fr": "Veuillez renseigner la dose",
+    "es": "Dosis faltante"
+  },
+  "health_diary": {
+    "en": "Health diary reminder",
+    "it": "Promemoria diario della salute",
+    "pl": "Przypomnienie dziennika zdrowia",
+    "de": "Errinerungen des Gesundheitstagebuches",
+    "fr": "Rappel pour compléter mon journal médical",
+    "es": "Recordatorio de diario de salud"
+  },
+  "email": {
+    "en": "Your email address is not correct",
+    "it": "La mail inserita non è corretta",
+    "pl": "Twój adres email jest niepoprawny",
+    "de": "Ihre E-Mail-Adresse ist nicht korrekt",
+    "fr": "Votre adresse mail est incorrect ",
+    "es": "Su dirección de email no es correcta"
+  },
+  "profile_phone": {
+    "en": "Phone number",
+    "it": "Telefono",
+    "pl": "Numer telefonu",
+    "de": "Telefon",
+    "fr": "N° de téléphone",
+    "es": "Número de teléfono"
+  },
+  "exam_type": {
+    "en": "Type of exam",
+    "it": "Tipo di esame",
+    "pl": "Rodzaj badania",
+    "de": "Untersuchungsart",
+    "fr": "Type d'examen",
+    "es": "Tipo de examen"
+  },
+  "email_check_email": {
+    "en": "Check your e-mail and click on the link to confirm your account.",
+    "it": "Controlla la tua email e clicca il link per confermare il tuo account",
+    "pl": "Sprawdź pocztę email i kliknij na link aby zatwierdzić konto",
+    "de": "Überprüfen Sie Ihre E-Mails und klicken Sie auf den Link, um Ihr Konto zu bestätigen",
+    "fr": "Afin de valider votre inscription, un lien vous a été envoyé à l'adresse mail fournie",
+    "es": "Revise su correo electrónico y haga clic en el enlace para confirmar su cuenta."
+  },
+  "registration_remember_label": {
+    "en": "Remember, your data is safely stored and will only be visible by you & the doctor you will have selected.",
+    "it": "Ricorda, i tuoi dati sono sicuri e visibili solamente \nal tuo medico.Leggi le condizioni di riservatezza.",
+    "pl": "Pamiętaj, że Twoje dane są bezpieczne i widoczne jedynie dla Twojego obecnego lekarza. Przeczytaj Politykę Prywatności",
+    "de": "Vergessen Sie nicht, dass Ihre Daten nur für Ihren derzeitigen Arzt sicher und sichtbar sind. Lesen Sie die Datenschutzbestimmungen.",
+    "fr": "Sachez que vos données sont protégées et uniquement accessible à vous & au médecin que vous aurez sélectioné",
+    "es": "Recuerde, sus datos se almacenan de forma segura y solo serán visibles para usted y el médico que haya seleccionado."
+  },
+  "treatments_note": {
+    "en": "Note",
+    "it": "Note",
+    "pl": "Zanotuj",
+    "de": "Notieren",
+    "fr": "Information complémentaire",
+    "es": "Nota"
+  },
+  "profile_etiology": {
+    "en": "Etiology",
+    "it": "Eziologia",
+    "pl": "Etiologia",
+    "de": "Ätiologie",
+    "fr": "Etiologie",
+    "es": "Etiología"
+  },
+  "profile_spec": {
+    "en": "Specialization",
+    "it": "Specializzazione",
+    "pl": "Specjalizacja",
+    "de": "Spezialisierung",
+    "fr": "Spécialisation",
+    "es": "Especialización"
+  },
+  "treatments_seizure_time": {
+    "en": "Seizure time",
+    "it": "Durata della crisi",
+    "pl": "Czas trwania napadu",
+    "de": "Anfallslänge",
+    "fr": "Durée de la crise",
+    "es": "Duración de la crisis"
+  },
+  "treat_add_intake_moment": {
+    "en": "Add extra intake",
+    "it": "Aggiungi il momento dell\u2019assunzione",
+    "pl": "Dodaj moment przyjęcia leku",
+    "de": "Zeitpunkt der Einnahme hinzufügen",
+    "fr": "Ajouter une autre prise",
+    "es": "Agregar una toma adicional"
+  },
+  "home_consult": {
+    "en": "Consult",
+    "it": "Consulto",
+    "pl": "Konsultacja",
+    "de": "Beratung",
+    "fr": "Télémédecine",
+    "es": "Consultar"
+  },
+  "popup_med_off": {
+    "en": "The doctor is not online",
+    "it": "Il medico non è online",
+    "pl": "Lekarz nie jest online",
+    "de": "Der Arzt ist nicht online",
+    "fr": "Le médecin n'est pas en ligne",
+    "es": "El doctor no está en línea"
+  },
+  "profile_unavailable": {
+    "en": "Unavailable",
+    "it": "Non disponibile",
+    "pl": "Niedostępny",
+    "de": "Nicht erhältlich",
+    "fr": "Indisponible",
+    "es": "No disponible"
+  },
+  "lab_tests_date_text": {
+    "en": "Date",
+    "it": "Data",
+    "pl": "Data",
+    "de": "Datum",
+    "fr": "Date",
+    "es": "Fecha"
+  },
+  "emergency_protocol_etiology": {
+    "en": "Etiology",
+    "it": "Eziologia",
+    "pl": "Etiologia",
+    "de": "Ätiologie",
+    "fr": "Etiologie",
+    "es": "Etiología"
+  },
+  "lab_tests_schedule": {
+    "en": "Schedule",
+    "it": "Orario",
+    "pl": "Zaplanuj",
+    "de": "Planen",
+    "fr": "Heure du rendez-vous",
+    "es": "Horario"
+  },
+  "treat_medicinale_errato": {
+    "en": "Drug not correct. \nSelect a drug from the list",
+    "it": "Medicinale non corretto.\nDevi selezionare un medicinale tra quelli suggeriti",
+    "pl": "Lek niepoprawny. \nWybierz lek z listy",
+    "de": "Medikament nicht richtig. \nMedikament aus der Liste wählen",
+    "fr": "Nom de médicament incorrect. \nVeuillez en sélectionner un dans la liste",
+    "es": "Fármaco no correcto. \nSeleccione un medicamento de la lista"
+  },
+  "treat_drug_info": {
+    "en": "Drug info",
+    "it": "Informazioni sul trattamento",
+    "pl": "Informacje o leku",
+    "de": "Arzneimittelinformation",
+    "fr": "Information médicament",
+    "es": "Información de medicamentos"
+  },
+  "not_reject": {
+    "en": "REJECT",
+    "it": "RIFIUTA",
+    "pl": "ODRZUĆ",
+    "de": "ABLEHNEN",
+    "fr": "REJETER",
+    "es": "RECHAZAR"
+  },
+  "profile_height": {
+    "en": "Height",
+    "it": "Altezza",
+    "pl": "Wzrost",
+    "de": "Höhe",
+    "fr": "Taille",
+    "es": "Talla"
+  },
+  "treatments_end_date": {
+    "en": "End date",
+    "it": "Data di fine",
+    "pl": "Data zakończenia",
+    "de": "Endtermin",
+    "fr": "Date de fin",
+    "es": "Fecha de fin"
+  },
+  "emergency_protocol": {
+    "en": "Emergency protocol",
+    "it": "Protocollo di emergenza",
+    "pl": "Protokół sytuacji krytycznej",
+    "de": "Notfall-Protokoll",
+    "fr": "Protocole d'urgence",
+    "es": "Protocolo de emergencia"
+  },
+  "registration_cred_wrong": {
+    "en": "Wrong credentials",
+    "it": "Credenziali errate",
+    "pl": "Niepoprawne dane",
+    "de": "Falsche Anmeldeinformationen",
+    "fr": "Identifiant ou mot de passe incorrect",
+    "es": "Credenciales incorrectas"
+  },
+  "login_cred_wrong": {
+    "en": "Invalid username and password combination",
+    "it": "Username e password non validi",
+    "pl": "Nieprawidłowa kombinacja nazwy użytkownika i hasła",
+    "de": "Ungültige Kombination aus Benutzername und Passwort",
+    "fr": "Combinaison nom d'utilisateur et mot de passe invalide",
+    "es": "Combinación de nombre de usuario y contraseña no válida"
+  },
+  "profile_doctorname": {
+    "en": "Doctor name",
+    "it": "Nome del medico",
+    "pl": "Imię i nazwisko lekarza",
+    "de": "Name des Arztes",
+    "fr": "Nom du mon docteur",
+    "es": "Nombre del médico"
+  },
+  "grid4_treat": {
+    "en": "Treatment",
+    "it": "Trattamento",
+    "pl": "Leczenie",
+    "de": "Behandlung",
+    "fr": "Traitement",
+    "es": "Tratamiento"
+  },
+  "treatments_for_hospitalization": {
+    "en": "For hospitalization",
+    "it": "Per un ricovero",
+    "pl": "W celu hospitalizacji",
+    "de": "Für den Krankenhausaufenthalt",
+    "fr": "Pour un hospitalisation",
+    "es": "Para hospitalización"
+  },
+  "lab_tests_date": {
+    "en": "Lab test date (DD/MM/YYYY)",
+    "it": "Data dell'analisi (GG/MM/AAAA)",
+    "pl": "Data badania laboratoryjnego (DD/MM/RRRR)",
+    "de": "Datum des Labortests (TT/MM/JJJJ)",
+    "fr": "(JJ/MM/AAAA)",
+    "es": "Fecha de prueba de laboratorio (DD/MM/AAAA)"
+  },
+  "profile_caregiver": {
+    "en": "Caregiver name",
+    "it": "Nome del caregiver",
+    "pl": "Imię i nazwisko opiekuna",
+    "de": "Name der Pflegekraft",
+    "fr": "Nom de l'aidant",
+    "es": "Nombre del cuidador"
+  },
+  "sintomi_add": {
+    "en": "Add symptoms",
+    "it": "Aggiungi sintomi",
+    "pl": "Dodaj objawy",
+    "de": "Symptome hinzufügen",
+    "fr": "Ajouter un symptôme",
+    "es": "Adicionar síntomas"
+  },
+  "select_an_intake": {
+    "en": "Select",
+    "it": "Seleziona",
+    "pl": "Wybierz",
+    "de": "Wählen",
+    "fr": "Sélectionner",
+    "es": "Seleccionar"
+  },
+  "drawer_contact": {
+    "en": "Contact PurpleCare",
+    "it": "Contatta PurpleCare",
+    "pl": "Zkontaktuj się z PurpleCare",
+    "de": "Kontaktiere PurpleCare",
+    "fr": "Contacter PurpleCare",
+    "es": "Contactar PurpleCare"
+  },
+  "treatments_dose_errata": {
+    "en": "The specified dose is not correct",
+    "it":  "La dose inserita non è corretta",
+    "pl": "Podana dawka jest niepoprawna",
+    "de": "Die angegebene Dosis ist falsch",
+    "fr": "La dose indiquée n'est pas correcte",
+    "es": "La dosis especificada no es correcta"
+  },
+  "regsteps_yourname": {
+    "en": "Your name",
+    "it": "Il tuo nome",
+    "pl": "Twoje imię",
+    "de": "Ihr Name",
+    "fr": "Votre nom de famille",
+    "es": "Su nombre"
+  },
+  "treat_drug": {
+    "en": "Drug name",
+    "it": "Nome del farmaco",
+    "pl": "Nazwa leku",
+    "de": "Arzneimittelname",
+    "fr": "Nom du médicament",
+    "es": "Nombre del medicamento"
+  },
+  "report_drug": {
+    "en": "Medication-related symptoms a day",
+    "it": "Reazioni avverse al farmaco giornaliere",
+    "pl": "Objawy niepożądane spowodowane przyjęciem leku w ciągu dnia",
+    "de": "Arzneimittelbedingte unerwünschte Ereignisse pro Tag",
+    "fr": "Effet secondaire du jour lié du traitement",
+    "es": "Síntomas adversos diarios relacionados con la medicación"
+  },
+  "home_sey_your_activities": {
+    "en": "SET YOUR ACTIVITIES:",
+    "it": "IMPOSTA LE TUE ATTIVITA’",
+    "pl": "USTAW SWOJE ZAJĘCIA",
+    "de": "STELLEN SIE IHRE AKTIVITÄTEN EIN",
+    "fr": "PARAMETRER VOS ACTIVITE",
+    "es": "ESTABLEZCA SUS ACTIVIDADES:"
+  },
+  "emergency_protocol_side_effects": {
+    "en": "Side effects in the last 30 days",
+    "it": "Reazioni avverse negli ultimi 30 giorni",
+    "pl": "Napady w ciągu ostatnich 30 dni",
+    "de": "Nebenwirkungen in den letzen 30 Tagen",
+    "fr": "Effets secondaires déclaré au cours des 30 derniers jours",
+    "es": "Efectos secundarios en los últimos 30 días"
+  },
+  "grid4_lab": {
+    "en": "Laboratory \ntests",
+    "it": "Analisi",
+    "pl": "Badania \nlaboratoryjne",
+    "de": "Labortests",
+    "fr": "Rendez-vous \nd’analyse médicale",
+    "es": "Pruebas de laboratorio"
+  },
+  "treatments_save": {
+    "en": "SAVE",
+    "it": "SALVA",
+    "pl": "ZAPISZ",
+    "de": "SPEICHERN",
+    "fr": "SAUVEGARDER",
+    "es": "SALVAR"
+  },
+  "popup_close": {
+    "en": "CLOSE",
+    "it": "CHIUDI",
+    "pl": "ZAMKNIJ",
+    "de": "SCHLIESSEN",
+    "fr": "FERMER",
+    "es": "CERRAR"
+  },
+  "registration_psw_field": {
+    "en": "Password",
+    "it": "Password",
+    "pl": "Hasło",
+    "de": "Passwort",
+    "fr": "Mot de passe",
+    "es": "Contraseña"
+  },
+  "treat_start_writing": {
+    "en": "Start writing...",
+    "it": "Inizia a scrivere …",
+    "pl": "Zacznij pisać…",
+    "de": "Fang an zu schreiben…",
+    "fr": "Commencez à écrire…",
+    "es": "Empieza a escribir"
+
+  },
+  "popup_time": {
+    "en": "Select one of the suggested times",
+    "it": "Seleziona uno degli orari suggeriti",
+    "pl": "Wybierz jedną z zaproponowanych godzin",
+    "de": "Bitte eine der folgenden Stunden wählen",
+    "fr": "Merci de sélectionner un des champs",
+    "es": "Seleccione uno de los horarios sugeridos"
+  },
+  "treat_freq_and_dosage": {
+    "en": "Frequency and dosage",
+    "it": "Frequenza e dosaggio",
+    "pl": "Częstotliwość i dawkowanie",
+    "de": "Häufigkeit und Dosierung",
+    "fr": "Fréquence et dosage",
+    "es": "Frecuencia y dosis"
+  },
+  "tip": {
+    "en": "Please specify if a genetic test was taken.",
+    "it": "Si prega di specificare se è stato eseguito un test genetico.",
+    "pl": "Proszę sprecyzuj, czy wykonano test genetyczny.",
+    "de": "Bitte gib an, ob ein Gentest durchgeführt wurde.",
+    "fr": "Veuillez préciser si un test génétique a été effectué.",
+    "es": "Especifique si se realizó una prueba genética."
+  },
+  "todo_activities_female": {
+    "en": "Female",
+    "it": "Femmina",
+    "pl": "Kobieta",
+    "de": "Weiblich",
+    "fr": "Femme",
+    "es": "Femenino"
+  },
+  "select_an_option": {
+    "en": "Select an option",
+    "it": "Selezione una voce",
+    "pl": "Wybierz opcję",
+    "de": "Wähle eine Option",
+    "fr": "Sélectionnez une option",
+    "es": "Seleccione una opción"
+  },
+  "profile_connected": {
+    "en": "CONNECTED",
+    "it": "CONNESSO",
+    "pl": "POŁĄCZONO",
+    "de": "ANGESCHLOSSEN",
+    "fr": "CONNEXION",
+    "es": "CONECTADO"
+  },
+  "not_disconnect": {
+    "en": "DISCONNECT",
+    "it": "DISCONNETTI",
+    "pl": "ROZŁĄCZ",
+    "de": "TRENNEN",
+    "fr": "DONNECTER",
+    "es": "DESCONECTADO"
+  },
+  "drawer_notifications": {
+    "en": "Notifications",
+    "it": "Notifiche",
+    "pl": "Powiadomienia",
+    "de": "Benachrichtigungen",
+    "fr": "Notifications",
+    "es": "Notificaciones"
+  },
+  "profile_save": {
+    "en": "SAVE CHANGES",
+    "it": "SALVA CAMBIAMENTI",
+    "pl": "ZAPISZ ZMIANY",
+    "de": "ÄNDERUNGEN SPEICHERN",
+    "fr": "ENREGISTRER LES MODIFICATIONS",
+    "es": "SALVAR LOS CAMBIOS"
+  },
+  "lab_tests_ex_place": {
+    "en": "Ex: Zurich",
+    "it": "Ad es: Roma",
+    "pl": "Np. Warszawa",
+    "de": "z.B. Berlin",
+    "fr": "Ex: 1 rue de la République, Paris",
+    "es": "Ej: La Habana"
+  },
+  "lab_tests_ex_note": {
+    "en": "Ex: bring my medical record",
+    "it": "Ad es: porta referti di analisi/esami precedenti",
+    "pl": "Np. Zabierz dokumentację medyczną",
+    "de": "z.B. Meine Krankenakte bringen",
+    "fr": "Ex: Apporter mon dossier médical",
+    "es": "Ej: traer mi historia clínica"
+  },
+  "exam_save": {
+    "en": "Exam successfully saved",
+    "it": "Esame salvato con successo",
+    "pl": "Badanie zostało pomyślnie zapisane",
+    "de": "Untersuchung erfolgreich gespeichert",
+    "fr": "Votre rendez-vous chez le spécialiste a été enregistré avec succès",
+    "es": "Examen guardado correctamente"
+  },
+  "sintomi_please": {
+    "en": "Please specify here",
+    "it": "Prego specificare",
+    "pl": "Sprecyzuj",
+    "de": "Bitte hier angeben",
+    "fr": "Merci de préciser ici",
+    "es": "Por favor precisar aquí"
+  },
+  "exam_visita": {
+    "en": "Visit",
+    "it": "Visita",
+    "pl": "Wizyta",
+    "de": "Besuch",
+    "fr": "Visite",
+    "es": "Visita"
+  },
+  "profile_city": {
+    "en": "City",
+    "it": "Città",
+    "pl": "Miejscowość",
+    "de": "Ort",
+    "fr": "Ville",
+    "es": "Ciudad"
+  },
+  "not_no": {
+    "en": "NO, I DIDN'T",
+    "it": "NO, NON L'HO FATTO",
+    "pl": "NIE",
+    "de": "NEIN",
+    "fr": "NON",
+    "es": "No, no lo he hecho"
+  },
+  "visit_schedule": {
+    "en": "Schedule",
+    "it": "Orario",
+    "pl": "Zaplanuj",
+    "de": "Planen",
+    "fr": "Horaire",
+    "es": "Horario"
+  },
+  "treat_reminder": {
+    "en": "Reminder",
+    "it": "Promemoria",
+    "pl": "Przypomnienie",
+    "de": "Errinerung",
+    "fr": "Rappel",
+    "es": "Recordatorio"
+  },
+  "sintomi_other": {
+    "en": "Other effects",
+    "it": "Altre reazioni",
+    "pl": "Inne reakcje",
+    "de": "Andere Effekte",
+    "fr": "Autres effets secondaires",
+    "es": "Otros efectos"
+  },
+  "not_ask_why": {
+    "en": "ASK WHY?",
+    "it": "CHIEDI PERCHÉ?",
+    "pl": "ZAPYTAJ DLACZEGO",
+    "de": "FRAGE WARUM",
+    "fr": "DEMANDER POURQUOI?",
+    "es": "Pregunta por qué"
+  },
+  "intro_1sub": {
+    "en": "Welcome to PurpleCare.\nYour caring dedicated app.",
+    "it": "Benvenuto in PurpleCare. \nL'app dedicata a prendersi cura di te.",
+    "pl": "Witaj w PurpleCare. \nAplikacja przeznaczona do opieki nad Tobą",
+    "de": "Willkommen zu PurpleCare. \nDeine fürsorgliche App.",
+    "fr": "PurpleCare vous accompagne dans la gestion quotidienne de notre maladie",
+    "es": "Bienvenido a PurpleCare. \nTu aplicación dedicada al cuidado."
+  },
+  "drawer_visits": {
+    "en": "My visits to doctor",
+    "it": "Le mie visite mediche",
+    "pl": "Moje wizyty lekarskie",
+    "de": "Meine Arztbesuche",
+    "fr": "Rendez-vous chez mon médecin",
+    "es": "Mis visitas al doctor"
+  },
+  "visit_ex_note": {
+    "en": "For example: bring my medical record",
+    "it": "Ad es: porta referti di esami/analisi precedenti",
+    "pl": "Np. Zabierz dokumentację medyczną",
+    "de": "z.B. Meine Krankenakte bringen",
+    "fr": "Ex: Apporter mon dossier médical",
+    "es": "Ej: traer mi historial médico"
+  },
+  "health_diary_congrat": {
+    "en": "Congratulations! \nYou have completed your profile.\n",
+    "it": "Congratulazioni! \nHai completato il tuo profilo.\n",
+    "pl": "Gratulacje! \nTwoje wszystkie codzienne czynności zostały zapisane",
+    "de": "Glückwunsch! \nSie haben alle Ihre tägliche Aktivitäten eingestellt",
+    "fr": "Félicitation! \nVous avez paramétré(e)\nle rappel de vos actions quotidiennes.",
+    "es": "¡Felicidades! \nHa completado su perfil."
+  },
+  "profile_digit": {
+    "en": "The password must contains at least one digit",
+    "it": "La password deve contenere almeno un numero",
+    "pl": "Hasło musi zawierać co najmniej jedną cyfrę",
+    "de": "Das Passwort muss mindestens eine Ziffer enthalten",
+    "fr": "Le mot de passe doit contenir au moins un chiffre",
+    "es": "La contraseña debe contener al menos un dígito"
+  },
+  "profile_upper": {
+    "en": "The password must contain at least one upper case letter",
+    "it": "La password deve contenere almeno un carattere maiuscolo",
+    "pl": "Hasło musi zawierać co najmniej jedną wielką literę",
+    "de": "Das Passwort muss mindestens einen Großbuchstaben enthalten",
+    "fr": "Le mot de passe doit contenir au moins une lettre majuscule",
+    "es": "La contraseña debe contener al menos una letra mayúscula"
+  },
+  "profile_password_len": {
+    "en": "The password must be at least 8 characters long",
+    "it": "La password deve essere lunga almeno 8 caratteri",
+    "pl": "Hasło musi zawierać co najmniej 8 znaków.",
+    "de": "Das Passwort muss mindestens 8 Zeichen lang sein",
+    "fr": "Le mot de passe doit avoir un moins 8 caractères",
+    "es": "La contraseña debe tener al menos 8 caracteres"
+  },
+  "treat_save": {
+    "en": "SAVE TREATMENT",
+    "it": "SALVA IL TRATTAMENTO",
+    "pl": "ZAPISZ LECZENIE",
+    "de": "BEHANDLUNG SPEICHERN",
+    "fr": "ENREGISTRER",
+    "es": "GUARDAR TRATAMIENTO"
+  },
+  "treat_schedule": {
+    "en": "Schedule",
+    "it": "Orario",
+    "pl": "Zaplanuj",
+    "de": "Planen",
+    "fr": "Horaire",
+    "es": "Horario"
+  },
+  "registration_mail": {
+    "en": "Insert user email address",
+    "it": "Inserire una mail con cui effettuare l'accesso",
+    "pl": "Wpisz adres email użytkownika",
+    "de": "Geben Sie die E-Mail-Adresse des Benutzers ein",
+    "fr": "Indiquez votre adresse mail",
+    "es": "Inserte la dirección de correo electrónico del usuario"
+  },
+  "home_plan": {
+    "en": "Your plan for today",
+    "it": "Il tuo programma per oggi",
+    "pl": "Twój plan na dzisiaj",
+    "de": "Dein Plan für heute",
+    "fr": "Votre programme de la journée",
+    "es": "Tu plan para hoy"
+  },
+  "regsteps_country": {
+    "en": "Country & Language",
+    "it": "Paese & Lingua",
+    "pl": "Kraj i język",
+    "de": "Land & Sprache",
+    "fr": "Pays & langue",
+    "es": "País e Idioma"
+  },
+  "regsteps_patient_caregiver": {
+    "en": "Patient or Caregiver?",
+    "it": "Paziente o Caregiver?",
+    "pl": "Pacjent czy Opiekun?",
+    "de": "Patient oder Pflegekraft?",
+    "fr": "Etes-vous un patient \nou un aidant?",
+    "es": "¿Paciente o Cuidador?"
+  },
+  "treatments_why": {
+    "en": "Why have you been to the emergency room?",
+    "it": "Per quale motivo sei stato al pronto soccorso?",
+    "pl": "Dlaczego byłaś/byłeś na oddziale ratunkowym?",
+    "de": "Warum waren Sie in der Notaufnahme?",
+    "fr": "Pour quelle raison êtes-vous allé aux urgences",
+    "es": "¿Por qué ha estado en cuerpo de guardia?"
+  },
+  "health_diary_time": {
+    "en": "At what time do you want to complete the diary?",
+    "it": "A che ora preferisci completare il diario?",
+    "pl": "O której godzinie chciał(a)byś dokonać wpisu w dzienniku?",
+    "de": "Wann möchten Sie das Tagebuch ausfüllen?",
+    "fr": "À quelle heure souhaitez remplir votre journal de bord",
+    "es": "¿A qué hora quieres completar el diario?"
+  },
+  "regsteps_telefono_errato": {
+    "en": "The number you have entered is not correct",
+    "it": "Il numero di telefono inserito non è corretto",
+    "pl": "Wprowadzony numer nie jest poprawny",
+    "de": "Die von Ihnen eingegebene Nummer ist nicht korrekt.",
+    "fr": "Le numéro de téléphone utilisé est incorrect",
+    "es": "El número que ingresó no es correcto"
+  },
+  "not_see_profile": {
+    "en": "SEE PROFILE",
+    "it": "VEDI PROFILO",
+    "pl": "ZOBACZ PROFIL",
+    "de": "SIEHE PROFIL",
+    "fr": "VOIR LE PROFIL",
+    "es": "VER EL PERFIL"
+  },
+  "visit_rimossa": {
+    "en": "Visit was successfully removed",
+    "it": "Visita rimossa con successo",
+    "pl": "Wizyta została pomyślnie usunięta",
+    "de": "Besuch wurde erfolgreich entfernt",
+    "fr": "Votre rendez-vous chez le généraliste a bien été supprimé",
+    "es": "La visita se eliminó correctamente"
+  },
+  "treat_note": {
+    "en": "Note",
+    "it": "Note",
+    "pl": "Zanotuj",
+    "de": "Notieren",
+    "fr": "Information complémentaire",
+    "es": "Nota"
+  },
+  "exam_no": {
+    "en": "No reminder",
+    "it": "Nessun promemoria",
+    "pl": "Brak przypomnienia",
+    "de": "Keine Errinerung",
+    "fr": "Aucun rappel",
+    "es": "Sin recordatorio"
+  },
+  "report_anyreports": {
+    "en": "You don't have any reports",
+    "it": "Non hai report",
+    "pl": "Nie posiadasz żadnych raportów",
+    "de": "Sie haben keine Berichte.",
+    "fr": "Vous n'avez aucun rapport",
+    "es": "No tienes ningún informe"
+  },
+  "treatments_add_trigger": {
+    "en": "Add trigger",
+    "it": "Aggiungi fattore scatenante",
+    "pl": "Dodaj przyczynę",
+    "de": "Auslöser hinzufügen",
+    "fr": "Ajouter un effet déclencheur",
+    "es": "Agregar factor desencadenante"
+  },
+  "profile_country": {
+    "en": "Country",
+    "it": "Paese",
+    "pl": "Kraj",
+    "de": "Land",
+    "fr": "Pays",
+    "es": "País"
+  },
+  "exam_visit_date": {
+    "en": "Exam date",
+    "it": "Data dell\u2019esame",
+    "pl": "Data badania",
+    "de": "Untersuchungsdatum",
+    "fr": "Jour du rendez-vous",
+    "es": "Fecha del examen"
+  },
+  "utils_date": {
+    "en": "Incorrect date format (DD/MM/YYYY)",
+    "it": "Formato data non corretta (GG/MM/AAAA)",
+    "pl": "Nieprawidłowy format daty (DD/MM/RRRR)",
+    "de": "Falsches Datumsformat (TT/MM/JJJJ)",
+    "fr": "Veuillez respecter le format JJ/MM/AAAA",
+    "es": "Formato de fecha incorrecto (DD/MM/AAAA)"
+  },
+  "regsteps_patientlast": {
+    "en": "Patient last name",
+    "it": "Cognome del paziente",
+    "pl": "Nazwisko pacjenta",
+    "de": "Nachname des Patienten",
+    "fr": "Nom de famille du patient",
+    "es": "Apellido del paciente"
+  },
+  "not_ok": {
+    "en": "OK",
+    "it": "OK",
+    "pl": "OK",
+    "de": "OK",
+    "fr": "OK",
+    "es": "OK"
+  },
+  "todo_activities_genetic": {
+    "en": "Please specify if you were genetically tested",
+    "it": "Specificare se si è sottoposti a test genetici",
+    "pl": "Proszę sprecyzuj, czy zostałaś/-łeś przebadany genetycznie",
+    "de": "Bitte gib an, ob du genetisch getestet wurdest",
+    "fr": "Veuillez préciser si vous avez été génétiquement testé",
+    "es": "Por favor, especifique si se le hizo una prueba genética"
+  },
+  "profile_status": {
+    "en": "Status",
+    "it": "Stato",
+    "pl": "Status",
+    "de": "Status",
+    "fr": "Statut",
+    "es": "Estado"
+  },
+  "not": {
+    "en": "Notifications",
+    "it": "Notifiche",
+    "pl": "Powiadomienia",
+    "de": "Benachrichtigungen",
+    "fr": "Notifications",
+    "es": "Notificaciones"
+  },
+  "popup_data_saved": {
+    "en": "Data have been saved correctly",
+    "it": "Dati salvati correttamente",
+    "pl": "Dane zostały poprawnie zapisane",
+    "de": "Die Daten wurden korrekt gespeichert",
+    "fr": "Vos données ont été correctement sauvegardées",
+    "es": "Los datos se han guardado correctamente"
+  },
+  "profile_update": {
+    "en": "UPDATE PATIENT INFO",
+    "it": "AGGIORNA INFORMAZIONI DEL PAZIENTE",
+    "pl": "ZAKTUALIZUJ DANE PACJENTA",
+    "de": "PATIENTENINFORMATIONEN AKTUALISIEREN",
+    "fr": "MISE A JOUR DES DONNEES PATIENT",
+    "es": "ACTUALIZAR LA INFORMACIÓN DEL PACIENTE"
+  },
+  "regsteps_yourphone": {
+    "en": "Your phone",
+    "it": "Telefono",
+    "pl": "Twój numer telefonu",
+    "de": "Ihre Telefonnummer",
+    "fr": "Votre numéro de téléphone",
+    "es": "Su teléfono"
+  },
+  "todo_activities_idontknow": {
+    "en": "I DON’T know it",
+    "it": "NON la conosco",
+    "pl": "NIE znam",
+    "de": "Ich kenne sie NICHT",
+    "fr": "JE NE SAIS PAS",
+    "es": "No lo sé"
+  },
+  "profile_birth": {
+    "en": "Date of birth",
+    "it": "Data di nascita",
+    "pl": "Data urodzenia",
+    "de": "Geburtsdatum",
+    "fr": "Date de naissance",
+    "es": "Fecha de nacimiento"
+  },
+  "todo_activities_type": {
+    "en": "Type of epilepsy",
+    "it": "Tipo di epilessia",
+    "pl": "Rodzaj epilepsji",
+    "de": "Epilepsieform",
+    "fr": "Type d'épilepsie",
+    "es": "Tipo de epilepsia"
+  },
+  "registration_register": {
+    "en": "REGISTER",
+    "it": "REGISTRATI",
+    "pl": "ZAREJESTRUJ SIĘ",
+    "de": "REGISTRIEREN",
+    "fr": "NOUVEAU COMPTE",
+    "es": "REGISTRARSE"
+  },
+  "not_allow": {
+    "en": "ALLOW",
+    "it": "CONSENTI",
+    "pl": "ZEZWÓL",
+    "de": "ZULASSEN",
+    "fr": "AUTORISER",
+    "es": "PERMITIR"
+  },
+  "drawer2_exams": {
+    "en": "My specialist exams settings",
+    "it": "Impostazioni dei miei esami specialistici",
+    "pl": "Ustawienia moich badań specjalistycznych",
+    "de": "Einstellungen meiner fachärztlichen Untersuchungen",
+    "fr": "Enregistrer un rendez-vous chez mon spécialiste",
+    "es": "Mi configuración de exámenes especializados"
+  },
+  "not_weight": {
+    "en": "Update weight reminder",
+    "it": "Aggiorna il promemoria del peso",
+    "pl": "Zaktualizuj przypomnienie o wadze",
+    "de": "Gewichtserrinerung aktualisieren",
+    "fr": "Rappel d'actualisation du poids",
+    "es": "Actualizar recordatorio de peso"
+  },
+  "treatments_seizure_end": {
+    "en": "Seizure end",
+    "it": "Fine della crisi",
+    "pl": "Koniec napadu",
+    "de": "Anfallsende",
+    "fr": "Fin de la crise",
+    "es": "Fin de la crisis"
+  },
+  "profile_type": {
+    "en": "Type of epilepsy",
+    "it": "Tipo di epilessia",
+    "pl": "Rodzaj epilepsji",
+    "de": "Epilepsieform",
+    "fr": "Type d'épilepsie",
+    "es": "Tipo de epilepsia"
+  },
+  "drawer_privacy": {
+    "en": "Privacy Policy",
+    "it": "Condizioni di riservatezza",
+    "pl": "Polityka prywatności",
+    "de": "Datenschutzerklärung",
+    "fr": "Politique de protection des données personnelles",
+    "es": "Política de protección de datos personales"
+  },
+  "email_privacy_accept": {
+    "en": "I have read and accept",
+    "it": "Ho letto e accetto",
+    "pl": "Akceptuję politykę prywatności",
+    "de": "Ich akzeptiere die Datenschutzbestimmungen",
+    "fr": "J'accepte la politique de protection des données personnelles & \nles conditions générales d'utilisations",
+    "es": "He leído y acepto"
+  },
+  "privacy_pol": {
+    "en": "the Privacy Policy",
+    "it": "le condizioni di riservatezza",
+    "pl": "Polityka prywatności",
+    "de": "die Datenschutzerklärung",
+    "fr": "la politique de protection des données personnelles",
+    "es": "la política de protección de datos personales"
+  },
+  "terms_and_conds": {
+    "en": "and Terms & Conditions",
+    "it": "e Termini & Condizioni",
+    "pl": "oraz Ogólne Warunki Użytkowania",
+    "de": "und Nutzungsbedingungen",
+    "fr": "et les conditions générales d'utilisation",
+    "es": "y términos y condiciones"
+  },
+  "registration_remember": {
+    "en": "Remember my password",
+    "it": "Ricorda la mia password",
+    "pl": "Zapamiętaj moje hasło",
+    "de": "Passwort merken",
+    "fr": "Mémoriser mon mot de passe",
+    "es": "Recuerda mi contraseña"
+  },
+  "drawer2_reminders": {
+    "en": "Reminders",
+    "it": "Promemoria",
+    "pl": "Przypomnienia",
+    "de": "Errinerungen",
+    "fr": "Rappel",
+    "es": "Recordatorios"
+  },
+  "lab_tests_nome": {
+    "en": "Note",
+    "it": "Note",
+    "pl": "Zanotuj",
+    "de": "Notieren",
+    "fr": "Ajouter une note",
+    "es": "Nota"
+  },
+  "todo_activities_weight": {
+    "en": "Weight (kg)",
+    "it": "Peso (kg)",
+    "pl": "Waga (kg)",
+    "de": "Gewicht (kg)",
+    "fr": "Poids (kg)",
+    "es": "Peso (Kg)"
+  },
+  "lab_tests": {
+    "en": "Lab tests reminders",
+    "it": "Promemoria delle analisi",
+    "pl": "Przypomnienia o badaniach laboratoryjnych",
+    "de": "Erringerungen der Labortests",
+    "fr": "Rappel de rendez-vous d'analyse médicale",
+    "es": "Recordatorio de análisis de laboratorio"
+  },
+  "popup_error": {
+    "en": "Unexpected error\u2026\ntry again in a few seconds.",
+    "it": "Errore inaspettato\u2026\nriprova tra qualche secondo.",
+    "pl": "Nieoczekiwany błąd… \u2026\nspróbuj ponownie za chwilę",
+    "de": "Unerwarteter Fehler… \u2026\nversuchen Sie es in wenigen Sekunden nochmals",
+    "fr": "Une erreur est survenue, \u2026\nfeuillez essayer à nouveau dans quelques instants",
+    "es": "Error inesperado\u2026\nintente de nuevo en pocos segundos."
+  },
+  "email_email": {
+    "en": "E-mail",
+    "it": "E-mail",
+    "pl": "E-mail",
+    "de": "E-Mail",
+    "fr": "E-mail",
+    "es": "E-mail"
+  },
+  "drawer2_visits": {
+    "en": "My visits to doctor settings",
+    "it": "Impostazioni delle mie visite mediche",
+    "pl": "Ustawienia moich wizyt lekarskich",
+    "de": "Einstellungen meiner Arztbesuche",
+    "fr": "Mes rendez-vous chez mon généraliste",
+    "es": "Mis citas con el doctor"
+  },
+  "profile_of_doctor": {
+    "en": "Profile of dr.",
+    "it": "Profilo del dr.",
+    "pl": "Profil dr.",
+    "de": "Profil von Dr.",
+    "fr": "Profil de dr.",
+    "es": "Perfil del Dr."
+  },
+  "profile_password_error": {
+    "en": "Passwords do not match",
+    "it": "Le password non corrispondono!",
+    "pl": "Podane hasła nie są takie same!",
+    "de": "Passwörter stimmen nicht überein",
+    "fr": "Les mots de passes ne sont pas identiques",
+    "es": "La contraseña no corresponde"
+  },
+  "drawer_personal_data": {
+    "en": "Personal Data",
+    "it": "Dati personali",
+    "pl": "Dane osobowe",
+    "de": "Persönliche Daten",
+    "fr": "Données personnelles",
+    "es": "Datos personales"
+  },
+  "report_max": {
+    "en": "Max. consecutive days without seizures",
+    "it": "Max. numero consecutivo di giorni senza crisi",
+    "pl": "Maks. liczba kolejnych dni bez napadu w ciągu",
+    "de": "Max. Anzahl aufeinanderfolgender Tage ohne Anfall",
+    "fr": "Nombre maximum de jours consécutifs sans crise",
+    "es": "Número máximo de días consecutivos sin crisis"
+  },
+  "drawer_logout": {
+    "en": "Logout succesful",
+    "it": "Logout effettuato con successo",
+    "pl": "Wylogowano pomyślnie",
+    "de": "Logout erfolgreich",
+    "fr": "Vous êtes déconnecté",
+    "es": "Se ha desconectado bien"
+  },
+  "visit_remind": {
+    "en": "Remind me",
+    "it": "Ricordami",
+    "pl": "Przypomnij mi",
+    "de": "Errinere mich",
+    "fr": "Créer un rappel ",
+    "es": "Recordarme"
+  },
+  "registration_congratulations": {
+    "en": "Congratulations! \nYou have created your \naccount successfully",
+    "it": "Congratulazioni! \nHai creato il tuo \naccount con successo",
+    "pl": "Gratulacje! \nUtworzenie konta zakończyło się powodzeniem",
+    "de": "Glückwunsch! \nSie haben Ihr Konto \nerfolgreich erstellt",
+    "fr": "Félicitation! \nVotre compte a été créé avec succès",
+    "es": "Felicitaciones! \nUsted ha creado su \ncuenta exitosamente"
+  },
+  "button_next": {
+    "en": "NEXT",
+    "it": "PROSEGUI",
+    "pl": "DALEJ",
+    "de": "WEITER",
+    "fr": "SUIVANT",
+    "es": "SIGUIENTE"
+  },
+  "profile_disconnect": {
+    "en": "DISCONNECT FROM YOUR ACCOUNT",
+    "it": "DISCONNETTI DAL TUO ACCOUNT",
+    "pl": "WYJDŹ Z KONTA",
+    "de": "VOM KONTO TRENNEN",
+    "fr": "SE DECONNECTER DE VOTRE COMPTE",
+    "es": "DESCONECTARSE DE SU CUENTA"
+  },
+  "disconnect_statement": {
+    "en": "Are you sure you want to disconnect \nfrom your doctor? If you confirm your \ndoctor will no longer have access to \nyour medical data, but we will keep \nthem safely in the archive for your \nnext doctor.",
+    "it": "Sei sicuro di voler disconnetterti\ndal tuo dottore? Se confermi il tuo\nil medico non avrà più accesso \nai tuoi dati medici, ma li manterremo \nal sicuro nell'archivio per il tuo\nprossimo medico.",
+    "pl": "Czy na pewno chcesz odłączyć się od swojego lekarza? Jeśli to potwierdzisz, Twój \ndoktor nie będzie już miał dostępu do \ntwoich danych medycznych, ale przechowamy je bezpiecznie \nw archiwum dla twojego \nnastępnego lekarza. ",
+    "de": "Bist du sicher, dass du die Verbindung \nzu deinem Arzt trennen möchtest? Wenn du bestätigst, \ndass dein Arzt keinen Zugriff mehr auf deine \nmedizinischen Daten hat, werden wir sie jedoch \nsicher im Archiv für deinen \nnächsten Arzt aufbewahren. ",
+    "fr": "Êtes-vous sûr de vouloir vous déconnecter \nde votre médecin? Si vous confirmez, \nvotre médecin n'aura plus accès à vos données médicales, \nmais nous les conserverons en toute sécurité \ndans les archives pour votre prochain médecin.",
+    "es": "Está seguro que desea desconectarse \nde su doctor? Si usted confirma su \ndoctor no tendrá más acceso a \nsus datos médicos, pero nosotros los mantendremos seguros \nen el archivo para su \npróximo doctor."
+  },
+  "regsteps_devi_selezionare": {
+    "en": "Please select a city from the list",
+    "it": "Devi selezionare una città tra quelle suggerite",
+    "pl": "Wybierz miejscowość z podanej listy",
+    "de": "Bitte wählen Sie eine Stadt aus der Liste",
+    "fr": "Merci de sélectionner votre ville dans la liste",
+    "es": "Por favor seleccione una ciudad de la lista"
+  },
+  "treatments_did": {
+    "en": "Did you take your \ntreatment?",
+    "it": "Hai assunto il tuo \nfarmaco?",
+    "pl": "Czy wzięłaś/wziąłeś leki?",
+    "de": "Haben Sie Ihre \nMedizin eingenommen?",
+    "fr": "Avez-vous bien prise \nvotre traitement",
+    "es": "¿Usted tomó \nel medicamento?"
+  },
+  "profile_personalinfo": {
+    "en": "Personal info",
+    "it": "Informazioni personali",
+    "pl": "Dane osobowe",
+    "de": "Persönliche Angaben",
+    "fr": "Information personnelle",
+    "es": "Información personal"
+  },
+  "exam_ex_note": {
+    "en": "For example: bring my medical record",
+    "it": "Ad es: porta referti di analisi/esami precedenti",
+    "pl": "Np. Zabierz dokumentację medyczną",
+    "de": "z.B. Meine Krankenakte bringen",
+    "fr": "Ex: Apporter mon dossier médical",
+    "es": "Ej: traer mi registro médico"
+  },
+  "home_only3": {
+    "en": "Only 3 steps to start",
+    "it": "Solo 3 step per cominciare",
+    "pl": "Tylko 3 kroki od rozpoczęcia",
+    "de": "Start in nur 3 Schritten",
+    "fr": "Plus que 3 étapes de paramétrage",
+    "es": "Solo 3 pasos para comenzar"
+  },
+  "treat_end": {
+    "en": "End of treatment",
+    "it": "Fine del trattamento",
+    "pl": "Zakończenie leczenia",
+    "de": "Ende der Behandlung",
+    "fr": "Date d'arrêt du traitement",
+    "es": "Fin del tratamiento"
+  },
+  "exam_place": {
+    "en": "Exam place",
+    "it": "Luogo dell\u2019esame",
+    "pl": "Miejsce badania",
+    "de": "Untersuchungsort",
+    "fr": "Adresse",
+    "es": "Lugar del examen"
+  },
+  "treat_data_successiva": {
+    "en": "Start date is later than end date",
+    "it": "Data iniziale successiva a data finale",
+    "pl": "Data rozpoczęcia jest późniejsza od daty zakończenia",
+    "de": "Das Startdatum liegt nach dem Enddatum",
+    "fr": "La date de début de traitement est postérieure à la date d'arrêt",
+    "es": "La fecha de inicio es posterior a la de terminación"
+  },
+  "regsteps_city_label": {
+    "en": "City",
+    "it": "Città",
+    "pl": "Miejscowość",
+    "de": "Ort",
+    "fr": "Ville",
+    "es": "Ciudad"
+  },
+  "drawer2_healt_diary": {
+    "en": "My health diary settings",
+    "it": "Impostazioni del mio diario della salute",
+    "pl": "Ustawienia mojego dziennika zdrowia",
+    "de": "Einstellungen meines Gesundheitstagebuches",
+    "fr": "Paramétrer mon journal de bord",
+    "es": "Parámetros de mi diario de salud"
+  },
+  "button_modify": {
+    "en": "Modify",
+    "it": "Modifica",
+    "pl": "Edytuj",
+    "de": "Ändern",
+    "fr": "Modifier",
+    "es": "Modificar"
+  },
+  "treat_dose": {
+    "en": "Dose",
+    "it": "Dose",
+    "pl": "Dawka",
+    "de": "Dosis",
+    "fr": "Dose",
+    "es": "Dosis"
+  },
+  "treatments_trigger": {
+    "en": "Trigger",
+    "it": "Fattore scatenante",
+    "pl": "Przyczyna",
+    "de": "Auslöser",
+    "fr": "Effet déclencheur",
+    "es": "Factor desencadenante"
+  },
+  "home_toady": {
+    "en": "TODAY'S ACTIVITIES",
+    "it": "LE ATTIVITA\u2019 DI OGGI",
+    "pl": "DZISIEJSZE ZAJĘCIA",
+    "de": "DIE HEUTIGEN AKTIVITÄTEN",
+    "fr": "ACTIVITE DU JOUR",
+    "es": "ACTIVIDADES DEL DIA"
+  },
+  "regsteps_phone": {
+    "en": "Phone",
+    "it": "Telefono",
+    "pl": "Numer telefonu",
+    "de": "Telefon",
+    "fr": "Votre numéro de téléphone",
+    "es": "Teléfono"
+  },
+  "profile_email": {
+    "en": "Email",
+    "it": "Email",
+    "pl": "Email",
+    "de": "Email",
+    "fr": "Email",
+    "es": "Email"
+  },
+  "datasharing": {
+    "en": "Data sharing",
+    "it": "Condivisione dati",
+    "pl": "Udostępnianie danych",
+    "de": "Datenaustausch",
+    "fr": "Partage des données",
+    "es": "Compartiendo datos"
+  },
+  "visit_name": {
+    "en": "Doctor’s name",
+    "it": "Nome del medico",
+    "pl": "Nazwisko lekarza",
+    "de": "Name des Arztes",
+    "fr": "Nom du docteur",
+    "es": "Nombre del doctor"
+  },
+  "not_reminders": {
+    "en": "Reminders",
+    "it": "Promemoria",
+    "pl": "Przypomnienia",
+    "de": "Errinerungen",
+    "fr": "Rappels",
+    "es": "Recordatorios"
+  },
+  "drawer_treatments": {
+    "en": "My treatments",
+    "it": "I miei trattamenti",
+    "pl": "Moje leczenie",
+    "de": "Meine Behandlungen",
+    "fr": "Mes traitements",
+    "es": "Mis tratamientos"
+  },
+  "emergency_protocol_seizures": {
+    "en": "Seizures in the last 30 days",
+    "it": "Crisi negli ultimi 30 giorni",
+    "pl": "Napady w ciągu ostatnich 30 dni",
+    "de": "Anfälle in den letzten 30 Tagen",
+    "fr": "Nombres des crises survenues au cours des 30 derniers jours",
+    "es": "Número de crisis en los últimos 30 días"
+  },
+  "exam_note": {
+    "en": "Note",
+    "it": "Note",
+    "pl": "Zanotuj",
+    "de": "Notieren",
+    "fr": "Ajouter une note",
+    "es": "Nota"
+  },
+  "utils_time": {
+    "en": "Incorrect time format (HH:MM)",
+    "it": "Formato ora non corretto (HH:MM)",
+    "pl": "Nieprawidłowy format godziny (HH:MM)",
+    "de": "Falsches Zeitformat (HH:MM)",
+    "fr": "Veuillez respecter le format HH:MM",
+    "es": "Formato de hora incorrecto (HH:MM)"
+  },
+  "treatments_type": {
+    "en": "Type of seizure",
+    "it": "Tipo di crisi",
+    "pl": "Rodzaj napadu",
+    "de": "Anfallsart",
+    "fr": "Type de crise",
+    "es": "Tipo de crisis"
+  },
+  "profile_genetic": {
+    "en": "Genetic testing",
+    "it": "Testing genetico",
+    "pl": "Badanie genetyczne",
+    "de": "Gentest",
+    "fr": "Test génétique",
+    "es": "Prueba genética"
+  },
+  "not_undo": {
+    "en": "UNDO",
+    "it": "ANNULLA",
+    "pl": "COFNIJ",
+    "de": "RÜCKGÄNGIG MACHEN",
+    "fr": "ANNULER",
+    "es": "ANULAR"
+  },
+  "treat_salvato": {
+    "en": "Treatment has been successfully saved",
+    "it": "Trattamento salvato con successo",
+    "pl": "Leczenie zostało pomyślnie zapisane",
+    "de": "Behandlung wurde erfolgreich gespeichert",
+    "fr": "Ce traitement a bien été enregistré",
+    "es": "EL tratamiento ha sido salvado exitosamente"
+  },
+  "todo_activities_med": {
+    "en": "Medical data",
+    "it": "Dati medici",
+    "pl": "Dane medyczne",
+    "de": "Medizinische Daten",
+    "fr": "Information médicale",
+    "es": "Datos médicos"
+  },
+  "grid4_visit": {
+    "en": "Visit to \na doctor",
+    "it": "Visita \nmedica",
+    "pl": "Wizyta \nlekarska",
+    "de": "Arztbesuch",
+    "fr": "Rendez-vous chez \nle généraliste",
+    "es": "Visita a \nun doctor"
+  },
+  "todo_activities_altezza_errata": {
+    "en": "The height was not typed correctly",
+    "it": "L'altezza non è scritta correttamente",
+    "pl": "Wzrost został wpisany niepoprawnie",
+    "de": "Die Höhe wurde nicht richtig eingegeben",
+    "fr": "La taille n'a pas été correctement renseignée",
+    "es": "La talla no ha sido escrita correctamente"
+  },
+  "treat_active": {
+    "en":  "Active ingredient",
+    "it": "Principio attivo",
+    "pl": "Substancja aktywna",
+    "de": "Wirkstoff",
+    "fr": "Principe actif",
+    "es": "Principio activo"
+  },
+  "treat_fine_trattamento": {
+    "en": "end of treatment",
+    "it": "fine trattamento",
+    "pl": "Zakończenie leczenia",
+    "de": "Ende der Behandlung",
+    "fr": "Date d'arrêt du traitement",
+    "es": "Fecha del fin del tratamiento"
+  },
+  "visit_": {
+    "en": "Visits to doctor reminders",
+    "it": "Promemoria visite mediche",
+    "pl": "Przypomnienie o wizytach lekarskich",
+    "de": "Errinerungen der Artzbesuche",
+    "fr": "Rappel des rendez-vous chez le généraliste",
+    "es": "Recordatorios de citas con el doctor"
+  },
+  "diary_seizures": {
+    "en": "Seizures",
+    "it": "Crisi",
+    "pl": "Napady",
+    "de": "Anfälle",
+    "fr": "Crises",
+    "es": "Crisis"
+  },
+  "emergency_protocol_epilepsy": {
+    "en": "Type of epilepsy",
+    "it": "Tipo di epilessia",
+    "pl": "Rodzaj epilepsji",
+    "de": "Epilepsieform",
+    "fr": "Type d'épilepsie",
+    "es": "Tipo de epilepsia"
+  },
+  "treat_doses_a_day": {
+    "en": "Doses a day",
+    "it": "Dosi per giorno",
+    "pl": "Dzienne dawki",
+    "de": "Dosen pro Tag",
+    "fr": "Nombre de prises",
+    "es": "Número de tomas al día"
+  },
+  "registration": {
+    "en": "PurpleCare helps you in your daily seizure tracking, assists on your treatment management,\nallowing you to take care of loved ones and safely connects to your doctor.",
+    "it": "PurpleCare ti aiuta a monitorare giornalmente le tue crisi, ti assiste nella gestione dei tuoi trattamenti, \npermettendoti di prenderti cura dei tuoi cari e di connetterti in totale sicurezza al tuo medico.",
+    "pl": "PurpleCare służy Ci pomocą w codziennym śledzeniu napadów, kierowaniu procesem leczenia, \npozwala Ci opiekować się Twoimi bliskimi i dzięki niemu możesz bezpiecznie połączyć się z Twoim lekarzem",
+    "de": "PurpleCare hilft Ihnen bei der täglichen Verfolgung von Anfällen, \nunterstützt Sie bei Ihrem Behandlungsmanagement, ermöglicht es Ihnen, sich um Ihre Lieben zu kümmern, und stellt eine sichere Verbindung zu Ihrem Arzt her.",
+    "fr": "PurpleCare vous aide dans votre suivi quotidien des crises, ainsi que dans la prise de votre traitement, vous permet de prendre soin de vos proches et vous connecter en toute sécurité à votre médecin",
+    "es": "PurpleCare lo ayuda en el seguimiento de sus crisis diariamente, \nlo asiste en el manejo de su tratamiento, permitiéndole cuidar con amor \na sus seres queridos y conectarse seguramente con su doctor."
+  },
+  "emergency_protocol_height": {
+    "en": "Height",
+    "it": "Altezza",
+    "pl": "Wzrost",
+    "de": "Höhe",
+    "fr": "Taille",
+    "es": "Talla"
+  },
+  "button_yes": {
+    "en": "Yes",
+    "it": "Sì",
+    "pl": "Tak",
+    "de": "Ja",
+    "fr": "Oui",
+    "es": "Si"
+  },
+  "report_treat": {
+    "en": "Treatment",
+    "it": "Trattamento",
+    "pl": "Leczenie",
+    "de": "Behandlung",
+    "fr": "Traitement",
+    "es": "Tratamiento"
+  },
+  "visit_no": {
+    "en": "No reminder",
+    "it": "Nessun promemoria",
+    "pl": "Brak przypomnienia",
+    "de": "Keine Errinerung",
+    "fr": "Aucun rappel",
+    "es": "Ningún recordatorio"
+  },
+  "lab_tests_ex_test": {
+    "en": "Ex: Blood test",
+    "it": "Ad es: Analisi del sangue",
+    "pl": "Np. badanie krwi",
+    "de": "Bluttest",
+    "fr": "Ex: Analyse sanguine",
+    "es": "Ej: Análisis de sangre"
+  },
+  "regsteps_patient": {
+    "en": "Patient",
+    "it": "Paziente",
+    "pl": "Pacjent",
+    "de": "Patient",
+    "fr": "Patient",
+    "es": "Paciente"
+  },
+  "not_schedule_later": {
+    "en": "SCHEDULE LATER",
+    "it": "IMPOSTA PIU’ TARDI",
+    "pl": "ZAPLANUJ PÓŹNIEJ",
+    "de": "SPÄTER PLANEN",
+    "fr": "PLANIFIER PLUS TARD",
+    "es": "PLANIFICAR MAS TARDE"
+  },
+  "emergency_protocol_treatment": {
+    "en": "Treatment",
+    "it": "Trattamento",
+    "pl": "Leczenie",
+    "de": "Behandlung",
+    "fr": "Traitement actuel",
+    "es": "Tratamiento"
+  },
+  "treat_remove": {
+    "en": "REMOVE THE TREATMENT",
+    "it": "RIMUOVI IL TRATTAMENTO",
+    "pl": "USUŃ LECZENIE",
+    "de": "BEHANDLUNG ENTFERNEN",
+    "fr": "SUPPRIMER CE TRAITMENT",
+    "es": "SUPRIMIR EL TRATAMIENTO"
+  },
+  "treatments_seizure_start": {
+    "en": "Seizure start",
+    "it": "Inizio della crisi",
+    "pl": "Początek napadu",
+    "de": "Anfallsbeginn",
+    "fr": "Début de la crise",
+    "es": "Inicio de la crisis"
+  },
+  "treatments_emergency": {
+    "en": "Emergency medications",
+    "it": "Farmaci di emergenza",
+    "pl": "Leki ratunkowe",
+    "de": "Notfallmedikamente",
+    "fr": "Traitement d'urgence administré",
+    "es": "Fármacos de emergencia"
+  },
+  "contact_us": {
+    "en": "Contact us",
+    "it": "Contattaci",
+    "pl": "Skontaktuj się z nami",
+    "de": "Kontaktiere uns",
+    "fr": "Contactez-nous",
+    "es": "Contáctenos"
+  },
+  "diary_reminders": {
+    "en": "Reminders",
+    "it": "Ricordami",
+    "pl": "Przypomnienia",
+    "de": "Erinnerungen",
+    "fr": "Rappels",
+    "es": "Recordatorios"
+  },
+  "diary_drug_related": {
+    "en": "DRUG-RELATED ADVERSE EVENTS",
+    "it": "Reazioni avverse al farmaco",
+    "pl": "OBJAWY NIEPOŻĄDANE SPOWODOWANE PRZYJĘCIEM LEKU",
+    "de": "UNERWÜNSCHTE ARZNEIMITTELWIRKUNG",
+    "fr": "EFFETS SECONDAIRES LIEES AUX TRAITEMENTS",
+    "es": "EFECTOS SECUNDARIOS RELACIONADOS CON LA MEDICACIÓN"
+  },
+  "treat_freq": {
+    "en": "Frequency",
+    "it": "Frequenza",
+    "pl": "Częstotliwość",
+    "de": "Häufigkeit",
+    "fr": "Fréquence",
+    "es": "Frecuencia"
+  },
+  "drawer_info": {
+    "en": "Information on PurpleCare",
+    "it": "Informazioni su PurpleCare",
+    "pl": "Informacje o PurpleCare",
+    "de": "Informationen über PurpleCare",
+    "fr": "À propos de PurpleCare",
+    "es": "Información sobre PurpleCare"
+  },
+  "drawer_terms": {
+    "en": "Terms of use",
+    "it": "Termini di utilizzo",
+    "pl": "Warunki korzystania",
+    "de": "Nutzungsbedingungen",
+    "fr": "Condition générales d'utilisations",
+    "es": "Condiciones de uso"
+  },
+  "report_nottaken": {
+    "en": "Not taken",
+    "it": "Non preso",
+    "pl": "Niezażyty",
+    "de": "Nicht eingenommen",
+    "fr": "Non pris",
+    "es": "No tomado"
+  },
+  "lab_tests_name": {
+    "en": "Name of lab test",
+    "it": "Nome dell'analisi",
+    "pl": "Nazwa badania laboratoryjnego",
+    "de": "Name des Labortests",
+    "fr": "Type d'analyse",
+    "es": "Nombre del análisis de laboratorio"
+  },
+  "health_diary_lets": {
+    "en": "LET'S START",
+    "it": "COMINCIAMO",
+    "pl": "ZACZYNAMY",
+    "de": "LASS UNS ANFANGEN",
+    "fr": "COMMENCONS",
+    "es": "COMENCEMOS"
+  },
+  "email_email_and_passw": {
+    "en": "E-mail & Password",
+    "it": "E-mail & Password",
+    "pl": "Email i Hasło",
+    "de": "E-Mail & Passwort",
+    "fr": "E-mail & mot de passe",
+    "es": "E-mail & Contraseña"
+  },
+  "time_after": {
+    "en": "The start time is later than the end time",
+    "it": "L'ora di inizio è successiva all'ora di fine",
+    "pl": "Czas rozpoczęcia jest późniejszy niż czas zakończenia",
+    "de": "Die Startzeit ist später als die Endzeit",
+    "fr": "L'heure de début est postérieure à l'heure de fin",
+    "es": "La hora de inicio es posterior a la hora de terminación"
+  },
+  "profile_lastname": {
+    "en": "Last name",
+    "it": "Cognome",
+    "pl": "Nazwisko",
+    "de": "Nachname",
+    "fr": "Nom de famille",
+    "es": "Apellido"
+  },
+  "treat_start": {
+    "en": "Start of treatment",
+    "it": "Inizio del trattamento",
+    "pl": "Początek leczenia",
+    "de": "Behandlungsbeginn",
+    "fr": "Date de début du traitement",
+    "es": "Inicio del tratamiento"
+  },
+  "button_no": {
+    "en": "No",
+    "it": "No",
+    "pl": "Nie",
+    "de": "Nein",
+    "fr": "Non",
+    "es": "No"
+  },
+  "add_photo": {
+    "en": "Add a photo!",
+    "it": "Aggiungi una foto!",
+    "pl": "Dodaj zdjęcie!",
+    "de": "Füge ein Foto hinzu!",
+    "fr": "Ajouter une photo",
+    "es": "Adjunte una foto"
+  },
+  "button_save_reminder": {
+    "en": "SAVE",
+    "it": "SALVA",
+    "pl": "ZAPISZ",
+    "de": "SPEICHERN",
+    "fr": "ENREGISTRER",
+    "es": "SALVAR"
+  },
+  "home_diary": {
+    "en": "Diary",
+    "it": "Diario",
+    "pl": "Dziennik",
+    "de": "Tagesbuch",
+    "fr": "Mon journal",
+    "es": "Diario"
+  },
+  "treatments_add": {
+    "en": "Add a seizure",
+    "it": "Aggiungi una crisi",
+    "pl": "Dodaj napad",
+    "de": "Anfall hinzufügen",
+    "fr": "Ajouter une crise",
+    "es": "Adicione una crisis"
+  },
+  "grid4_exam": {
+    "en": "Specialist \nexams",
+    "it": "Esame \nspecialistico",
+    "pl": "Badania \nspecjalistyczne",
+    "de": "Fachärztliche \nUntersuchungen",
+    "fr": "Rendez-vous chez \nle spécialiste",
+    "es": "Exámenes \nespecializados"
+  },
+  "email_esiste": {
+    "en": "Your email address has already been used",
+    "it": "La mail inserita esiste già",
+    "pl": "Twój adres email został już zarejestrowany",
+    "de": "Ihre E-Mail-Adresse wurde bereits verwendet",
+    "fr": "Cette adresse mail est déjà utilisée",
+    "es": "Su email ha sido ya usado"
+  },
+  "todo_activities_birth": {
+    "en": "Date of birth (DD/MM/YYYY)",
+    "it": "Data di nascita (GG/MM/AAAA)",
+    "pl": "Data urodzenia (DD/MM/RRRR)",
+    "de": "Geburtsdatum (TT/MM/JJJJ)",
+    "fr": "Date de naissance (JJ/MM/AAAA)",
+    "es": "Fecha de nacimiento (DD/MM/AAAA)"
+  },
+  "drawer_emergency_prot": {
+    "en": "Emergency protocol",
+    "it": "Protocollo di emergenza",
+    "pl": "Protokół sytuacji krytycznej",
+    "de": "Notfall-Protokoll",
+    "fr": "Mon protocole d'urgence",
+    "es": "Protocolo de emergencia"
+  },
+  "utily_annulla": {
+    "en": "CANCEL",
+    "it": "ANNULLA",
+    "pl": "ANULUJ",
+    "de": "STORNIEREN",
+    "fr": "SUPPRIMER",
+    "es": "SUPRIMIR"
+  },
+  "report_reports": {
+    "en": "Reports",
+    "it": "Report",
+    "pl": "Raporty",
+    "de": "Berichte",
+    "fr": "Rapport",
+    "es": "Reportes"
+  },
+  "drawer_profile": {
+    "en": "My profile",
+    "it": "Il mio profilo",
+    "pl": "Mój profil",
+    "de": "Mein Profil",
+    "fr": "Mon profile",
+    "es": "Mi perfil"
+  },
+  "diary_drug_related": {
+    "en": "Medication-related symptoms",
+    "it": "Reazioni avverse al farmaco",
+    "pl": "Objawy związane z lekami",
+    "de": "Medikamentebedingte Symptome",
+    "fr": "Effets indésirables",
+    "es": "Efectos no deseados de los medicamentos"
+  },
+  "profile_myprofile": {
+    "en": "My profile",
+    "it": "Il mio profilo",
+    "pl": "Mój profil",
+    "de": "Mein Profil",
+    "fr": "Mon profile",
+    "es": "Mi perfil"
+  },
+  "not_are_you": {
+    "en": "Are you sure you want to disconnect \nfrom your doctor? If you confirm your \ndoctor will no longer have access to \nyour medical data, but we will keep \nthem safely in the archive for your \nnext doctor.",
+    "it": "Sei sicuro di volerti disconnettere \ndal tuo medico? Se confermi, il tuo \nmedico non avrà più accesso ai \ntuoi dati, ma verranno conservati in sicurezza per \nil tuo prossimo medico",
+    "pl": "Czy na pewno chcesz odłączyć konto od \nkonta Twojego lekarza? Jeśli tak, \nTwój lekarz straci dostęp do Twoich danych medycznych, natomiast my \nzapiszemy je bezpiecznie w archiwum dla kolejnego lekarza",
+    "de": "Sind Sie sicher, dass Sie die Verbindung \nzu Ihrem Arzt trennen möchten? Wenn Sie dies bestätigen, \nwird Ihr Arzt keinen Zugriff mehr auf Ihre medizinischen Daten haben, \naber wir werden diese für Ihren nächsten Arzt sicher im Archiv aufbewahr",
+    "fr": "Vous allez supprimer l’accès \nà vos données pour ce médecin. Merci de confirmer. \nSoyez averti que vos données seront archivées \net que si vous le souhaitez elles seront \ndisponibles pour votre prochain médecin.",
+    "es": "Está seguro que desea desconectarse \nde su doctor? Si usted confirma su \ndoctor no tendrá más acceso a \n sus datos médicos, pero nostros los mantendremos \n seguros en el archivo para \nel próximo doctor. "
+  },
+  "regsteps_patientfirst": {
+    "en": "Patient first name",
+    "it": "Nome del paziente",
+    "pl": "Imię pacjenta",
+    "de": "Vorname des Patienten",
+    "fr": "Prénom du patient",
+    "es": "Nombre del paciente"
+  },
+  "grid4_add": {
+    "en": "Add a reminder",
+    "it": "Aggiungi un promemoria",
+    "pl": "Dodaj przypomnienie",
+    "de": "Errinerung hinzufügen",
+    "fr": "Ajouter a rappel",
+    "es": "Agregar recordatorio"
+  },
+  "lab_tests_review": {
+    "en": "Review the lab test reminder",
+    "it": "Revisiona il promemoria dell\u2019analisi",
+    "pl": "Zaktualizuj przypomnienie o badaniu",
+    "de": "Errinerung des Labortests überprüfen",
+    "fr": "Afficher les rappels de rendez-vous d'analyse médicale",
+    "es": "Revisar el recordatorio de prueba de laboratorio"
+  },
+  "treatments_seizure_ex": {
+    "en": "Ex: 7 min",
+    "it": "Ad es: 7 min",
+    "pl": "Np. 7 min",
+    "de": "z.B. 7 min",
+    "fr": "Ex: 7 min.",
+    "es": "Ej: 7 min"
+  },
+  "profile_account_info": {
+    "en": "Account info",
+    "it": "Informazioni account",
+    "pl": "Informacje o koncie",
+    "de": "Kontoinformation",
+    "fr": "Informations de compte",
+    "es": "Información de cuenta"
+  },
+  "medical_account_info": {
+    "en": "Medical info",
+    "it": "Informazioni mediche",
+    "pl": "Informacje medyczne",
+    "de": "Medizinische Infos",
+    "fr": "Infos médicales",
+    "es": "Información médica"
+  },
+  "patient_accout_info": {
+    "en": "Patient info",
+    "it": "Informazioni paziente",
+    "pl": "Informacja o pacjencie",
+    "de": "Informationen zum Patienten",
+    "fr": "Information patient",
+    "es": "Información paciente"
+  },
+  "previous_act": {
+    "en": "You must first complete the previous activities",
+    "it": "Devi prima completare le attività precedenti",
+    "pl": "Najpierw musisz wykonać poprzednie czynności",
+    "de": "Du musst zuerst die vorherigen Aktivitäten abschließen",
+    "fr": "Vous devez d'abord renseigner les inforations précédentes",
+    "es": "Usted debe primero completar las actividades previas"
+  },
+  "visit_place": {
+    "en": "Address",
+    "it": "Luogo della visita",
+    "pl": "Adres",
+    "de": "Adresse",
+    "fr": "Adresse",
+    "es": "Dirección"
+  },
+  "visit_ora_non_corretta": {
+    "en": "Time not correct (HH:MM)",
+    "it": "Orario non corretto (HH:MM)",
+    "pl": "Czas niepoprawny (HH:MM)",
+    "de": "Zeit nicht richtig (HH:MM)",
+    "fr": "Veuillez respecter le format HH:MM",
+    "es": "Horario no corregiod (HH:MM)"
+  },
+  "profile_available": {
+    "en": "Available",
+    "it": "Disponibile",
+    "pl": "Dostępny",
+    "de": "Erhältlich ",
+    "fr": "Disponible",
+    "es": "Disponible"
+  },
+  "profile_patient_info": {
+    "en": "Patient info",
+    "it": "Informazioni del paziente",
+    "pl": "Dane pacjenta",
+    "de": "Patienteninformationen",
+    "fr": "Information patient",
+    "es": "Información del paciente"
+  },
+  "home_completed": {
+    "en": "Completed",
+    "it": "Completato",
+    "pl": "Zakończono",
+    "de": "Beendet",
+    "fr": "Terminé",
+    "es": "Terminado"
+  },
+  "emergency_protocol_weight": {
+    "en": "Weight",
+    "it": "Peso",
+    "pl": "Waga",
+    "de": "Gewicht",
+    "fr": "Poids",
+    "es": "Peso"
+  },
+  "profile_upload": {
+    "en": "Upload photo from gallery",
+    "it": "Carica foto dalla galleria",
+    "pl": "Zamieść zdjęcie z galerii obrazów",
+    "de": "Foto aus der Galerie hochladen",
+    "fr": "Ajouter un photo depuis votre galerie",
+    "es": "Descargas foto desde la galería"
+  },
+  "visit_note": {
+    "en": "Note",
+    "it": "Note",
+    "pl": "Zanotuj",
+    "de": "Notieren",
+    "fr": "Ajouter une note",
+    "es": "Nota"
+  },
+  "registration_ops": {
+    "en": "Ooops",
+    "it": "Ooooops...",
+    "pl": "Ojej",
+    "de": "Ups",
+    "fr": "OUPS",
+    "es": "Ooops"
+  },
+  "profile_prefix": {
+    "en": "Phone prefix",
+    "it": "Prefisso",
+    "pl": "Numer kierunkowy",
+    "de": "Telefon-Vorwahl",
+    "fr": "Indicatif",
+    "es": "Prefijo telefónico"
+  },
+  "health_diary_completa_le_voci": {
+    "en": "Complete missing fields in order to proceed",
+    "it": "Completa le voci mancanti per procedere",
+    "pl": "Uzupełnij brakujące pola aby przejść dalej",
+    "de": "Füllen Sie fehlende Felder aus um fortzufahren",
+    "fr": "Pour continuer, veuillez compléter les champs manquants",
+    "es": "Complete los campos que faltan para proceder"
+  },
+  "visit_salvata": {
+    "en": "Visit was successfully saved",
+    "it": "Visita salvata con successo",
+    "pl": "Wizyta pomyślnie zapisana",
+    "de": "Besuch wurde erfolgreich gespeichert",
+    "fr": "Votre rendez-vous chez le généraliste a été enregistré avec succès",
+    "es": "La visita fue salvada satisfactoriamente"
+  },
+  "add_photo_add_photo": {
+    "en": "ADD A PHOTO +",
+    "it": "AGGIUNGI UNA FOTO +",
+    "pl": "DODAJ ZDJĘCIE +",
+    "de": "FÜGE EIN FOTO DAZU +",
+    "fr": "AJOUTER UNE PHOTO +",
+    "es": "ADICIONAR FOTO +"
+  },
+  "regsteps_please": {
+    "en": "Please select the country where you live and the language of the app",
+    "it": "Prego selezionare il Paese in cui vivi e la lingua dell\u2019app",
+    "pl": "Wybierz kraj w którym mieszkasz oraz język aplikacji",
+    "de": "Bitte wählen Sie das Land in dem Sie wohnen und die Sprache der App",
+    "fr": "Merci de sélectionner votre pays de résidence ainsi que la langue souhaitée pour cette application",
+    "es": "Por favor seleccione el país donde usted vive y el idioma de la app"
+  },
+  "profile_name": {
+    "en": "First name",
+    "it": "Nome",
+    "pl": "Imię",
+    "de": "Vorname",
+    "fr": "Prénom",
+    "es": "Nombre"
+  },
+  "visit_ex_place": {
+    "en": "Ex: Zurich",
+    "it": "Ad es: Roma",
+    "pl": "Np. Warszawa",
+    "de": "z.B. Berlin",
+    "fr": "Ex: 1 rue de la République, Paris",
+    "es": "Ej: La Habana"
+  },
+  "report_taken": {
+    "en": "Taken",
+    "it": "Preso",
+    "pl": "Zażyty",
+    "de": "Eingenommen",
+    "fr": "Pris",
+    "es": "Tomado"
+  },
+  "exam_visit_hint": {
+    "en": "Exam date (DD/MM/YYYY)",
+    "it": "Data dell\u2019esame (GG/MM/AAAA)",
+    "pl": "Data badania (DD/MM/RRRR)",
+    "de": "Untersuchungsdatum (TT/MM/JJJJ)",
+    "fr": "(JJ/MM/AAAA)",
+    "es": "Fecha del examen (DD/MM/AAAA)"
+  },
+  "drawer_healt_diary": {
+    "en": "My health diary",
+    "it": "Il mio diario della salute",
+    "pl": "Mój dziennik zdrowia",
+    "de": "Mein Gesundheitstagebuch",
+    "fr": "Mon journal de bord médical",
+    "es": "Mi diario de salud"
+  },
+  "lab_tests_remind": {
+    "en": "Remind me",
+    "it": "Ricordami",
+    "pl": "Przypomnij mi",
+    "de": "Errinere mich",
+    "fr": "Créer un rappel",
+    "es": "Recordarme"
+  },
+  "intro_4": {
+    "en": "Connect to your doctor",
+    "it": "Connettiti al tuo medico",
+    "pl": "Połącz się z Twoim lekarzem",
+    "de": "Verbinden Sie sich mit Ihrem Arzt",
+    "fr": "Connectez-vous avec \nvos médecins",
+    "es": "Conectarse a su médico"
+  },
+  "intro_3": {
+    "en": "Reports",
+    "it": "Report",
+    "pl": "Raporty",
+    "de": "Berichte",
+    "fr": "Rapport",
+    "es": "Reportes"
+  },
+  "todo_activities_iknowit": {
+    "en": "I know it",
+    "it": "La conosco",
+    "pl": "Znam",
+    "de": "Ich kenne sie",
+    "fr": "Je sais cela",
+    "es": "Lo conozco"
+  },
+  "treatments_yes": {
+    "en": "YES, I DID",
+    "it": "SI, L'HO ASSUNTO",
+    "pl": "TAK, WZIĘŁAM/WZIĄŁEM",
+    "de": "JA",
+    "fr": "OUI, JE L'AI PRIS",
+    "es": "SI, LO HICE"
+  },
+  "not_yes": {
+    "en": "YES, SHARE WITH THE DOCTOR!",
+    "it": "SI, CONDIVIDI CON IL MEDICO!",
+    "pl": "TAK, PODZIEJ SIĘ Z LEKARZEM!",
+    "de": "JA, MIT DEM ARZT TEILEN!",
+    "fr": "OUI, JE VEUX PARTAGER CETTE INFROMATION AVEC MON MEDECIN",
+    "es": "SI, COMPARTIR CON EL DOCTOR"
+  },
+  "health_diary_note": {
+    "en": "Note symptoms and seizures",
+    "it": "Annota sintomi e crisi",
+    "pl": "Zanotuj objawy i napady",
+    "de": "Notiere Symptome und Anfälle" ,
+    "fr": "Déclarer vos symptômes et vos crises",
+    "es": "Anote síntomas y crisis"
+  },
+  "todo_activities_male": {
+    "en": "Male",
+    "it": "Maschio",
+    "pl": "Mężczyzna",
+    "de": "Männlich",
+    "fr": "Homme",
+    "es": "Masculino"
+  },
+  "profile_psw": {
+    "en": "Password",
+    "it": "Password",
+    "pl": "Hasło",
+    "de": "Passwort",
+    "fr": "Mot de passe",
+    "es": "Contraseña"
+  },
+  "visit_add": {
+    "en": "Add a visit to a doctor",
+    "it": "Aggiungi visita medica",
+    "pl": "Dodaj wizytę lekarską",
+    "de": "Arztbesuch hinzufügen",
+    "fr": "Ajouter un rendez-vous \nchez le généraliste",
+    "es": "Adicionas una cita \ncon el doctor"
+  },
+  "intro_2": {
+    "en": "Treatments",
+    "it": "Trattamenti",
+    "pl": "Leczenie",
+    "de": "Behandlungen",
+    "fr": "Traitements",
+    "es": "Tratamientos"
+  },
+  "intro_1": {
+    "en": "Welcome",
+    "it": "Benvenuto",
+    "pl": "Witaj",
+    "de": "Herzlich willkommen",
+    "fr": "Bonjour & Bienvenu",
+    "es": "Bienvenido"
+  },
+  "popup_attention": {
+    "en": "Attention",
+    "it": "Attenzione",
+    "pl": "Uwaga",
+    "de": "Achtung",
+    "fr": "Attention",
+    "es": "Atención"
+  },
+  "report_seedetils": {
+    "en": "See details",
+    "it": "Vedi dettagli",
+    "pl": "Zobacz szczegóły",
+    "de": "Siehe Einzelheiten",
+    "fr": "Pour plus de détail",
+    "es": "Ver detalles"
+  },
+  "treat_orario": {
+    "en": "The time must be selected from the list",
+    "it": "L'orario deve essere scelto fra quelli suggeriti",
+    "pl": "Godzina musi być wybrana z listy",
+    "de": "Die Stunde muss aus der Liste ausgewählt werden",
+    "fr": "Veuillez sélectionner un horaire dans la liste",
+    "es": "La hora debe ser seleccionada de la lista"
+  },
+  "profile_new_psw": {
+    "en": "New password",
+    "it": "Nuova Password",
+    "pl": "Nowe hasło",
+    "de": "Neues Passwort",
+    "fr": "Nouveau mot de passe",
+    "es": "Nueva contraseña"
+  },
+  "document_on_title": {
+    "en": "Success",
+    "it": "Congratulazioni",
+    "pl": "Udało się",
+    "de": "Erfolg",
+    "fr": "Succès",
+    "es": "Felicitaciones"
+  },
+  "document_err_title": {
+    "en": "Error",
+    "it": "Errore",
+    "pl": "Błąd",
+    "de": "Fehler",
+    "fr": "Erreur",
+    "es": "Error"
+  },
+  "document_on": {
+    "en": "Loading successful",
+    "it": "Caricamento effettuato con successo",
+    "pl": "Ładowanie zakończone pomyślnie",
+    "de": "Laden erfolgreich",
+    "fr": "Chargement réussi",
+    "es": "Descarga efectuada con éxito"
+  },
+  "document_err": {
+    "en": "An error occurred... please try again later",
+    "it": "Si è verificato un errore... riprova più tardi",
+    "pl": "Wystąpił błąd. Proszę spróbować później",
+    "de": "Ein Fehler ist aufgetreten. Bitte versuch es später erneut",
+    "fr": "Une erreur s'est produite... veuillez réessayer plus tard",
+    "es": "Ocurrió un error... por favor intente nuevamente más tarde"
+  },
+  "intro_4sub": {
+    "en": "Get in touch with your doctor \nand get the advice you need.",
+    "it": "Mettiti in contatto con il tuo medico e \nricevi il consiglio di cui hai bisogno.",
+    "pl": "Skontaktuj się z Twoim lekarzem i otrzymaj \nporadę której potrzebujesz",
+    "de": "Kontaktieren Sie Ihren Arzt und \nholen Sie sich den Rat den Sie brauchen",
+    "fr": "Pour un suivit personalisé",
+    "es": "Mantén contacto con su doctor y tome \nlos consejos que usted necesita."
+  },
+  "profile_take": {
+    "en": "Take a photo",
+    "it": "Scatta una foto",
+    "pl": "Zrób zdjęcie",
+    "de": "Mach ein Foto",
+    "fr": "Prendre une photo",
+    "es": "Tome una foto"
+  },
+  "datasharing_visual": {
+    "en": "'Here you find who visualized your profile and when.",
+    "it": "Qui puoi vedere chi ha visualizzato il tuo profilo e quando.",
+    "pl": "Tutaj widać  kto i kiedy otworzył twój profil",
+    "de": "Hier finden Sie wer Ihr Profil visualisiert hat und wann",
+    "fr": "Ici vous trouvez quand et par qui vos données ont été visualisées",
+    "es": "Aquí usted puede ver quién y cuándo vió su perfil"
+  },
+  "lab_tests_visit": {
+    "en": "Lab test date",
+    "it": "Data dell'analisi",
+    "pl": "Data badania laboratoryjnego",
+    "de": "Datum des Labortests",
+    "fr": "Jour du rendez-vous",
+    "es": "Fecha de los análisis de laboratorio"
+  },
+  "visit_visit_hint": {
+    "en": "Visit date (DD/MM/YYYY)",
+    "it": "Data della visita (GG/MM/AAAA)",
+    "pl": "Data wizyty (DD/MM/RRRR)",
+    "de": "Besuchsdatum (TT/MM/JJJJ)",
+    "fr": "(JJ/MM/AAAA)",
+    "es": "Fecha de la cita (DD/MM/AAAA)"
+  },
+  "drawer_exit": {
+    "en": "Disconnect",
+    "it": "Disconnetti",
+    "pl": "Wyjdź",
+    "de": "Ausgang",
+    "fr": "Sortir",
+    "es": "Desconectar"
+  },
+  "email_psw_conf": {
+    "en": "Confirm Password",
+    "it": "Conferma password",
+    "pl": "Potwierdź hasło",
+    "de": "Passwort bestätigen",
+    "fr": "Confirmer le mot de passe",
+    "es": "Confirmar la contraseña"
+  },
+  "nulla_da_vedere": {
+    "en": "Nothing to show",
+    "it": "Nessun dato da visualizzare",
+    "pl": "Nie ma nic do pokazania",
+    "de": "Nichts zu zeigen",
+    "fr": "Rien à montrer",
+    "es": "Nada a mostrar"
+  },
+  "health_diary_your": {
+    "en": "Your health diary",
+    "it": "Il tuo diario della salute",
+    "pl": "Twój dziennik zdrowia",
+    "de": "Ihr Gesundheitstagebuch",
+    "fr": "Votre journal de bord médical",
+    "es": "Su diario de salud"
+  },
+  "regsteps_lastname": {
+    "en": "Your familly name",
+    "it": "Il tuo cognome",
+    "pl": "Twoje nazwisko",
+    "de": "Ihr Nachname",
+    "fr": "Votre nom de famille",
+    "es": "Su apellido"
+  },
+  "todo_activities_dontworry": {
+    "en": "Don't worry! You or your doctor can update it later. We will send you a reminder.",
+    "it": "Non ti preoccupare! Puoi aggiornarla più tardi, dopo che hai chiesto al tuo medico. Ti invieremo un promemoria",
+    "de": "Mach dir keine Sorgen! Sie können es später aktualisieren, nachdem Sie Ihren Arzt gefragt haben. Wir senden Ihnen eine Erinnerung  \uD83D\uDE04",
+    "fr": "Ne vous inquiétez pas! Vous ou votre médecin pourrez mettre à jour cette information par la suite.",
+    "es": "No se preocupe! Usted o su doctor pueden actualizar después. Le enviaremos un recordatorio"
+  },
+  "report_days": {
+    "en": "Total number of days without seizures",
+    "it": "Numero di giorni senza crisi",
+    "pl": "Dni bez napadów",
+    "de": "Tage ohne Anfälle",
+    "fr": "Nombre total de jours sans crises",
+    "es": "Número total de días sin crisis"
+  },
+  "exam_cancel": {
+    "en": "Exam successfully removed",
+    "it": "Esame rimosso con successo",
+    "pl": "Badanie zostało pomyślnie usunięte",
+    "de": "Untersuchung erfolgreich entfernt",
+    "fr": "Votre rendez-vous chez le spécialiste a bien été supprimé",
+    "es": "Examen removido con éxito"
+  },
+  "treatments_seizure_share": {
+    "en": "SHARE WITH YOUR DOCTOR",
+    "it": "CONDIVIDI CON IL TUO MEDICO",
+    "pl": "PODZIEL SIĘ ZE SWOIM LEKARZEM",
+    "de": "TEILE MIT DEINEM ARZT",
+    "fr": "PARTAGEZ AVEC VOTRE MÉDECIN",
+    "es": "COMPARTIR CON SU DOCTOR"
+  },
+  "profilo_non_completato": {
+    "en": "Profile section available \nonly after entering the required data.",
+    "it": "Sezione profilo disponibile \nsolo dopo aver inserito i dati richiesti.",
+    "pl": "Sekcja profilu dostępna tylko \npo wprowadzeniu wymaganych danych.",
+    "de": "Profilabschnitt erst nach Eingabe \nder erforderlichen Daten verfügbar.",
+    "fr": "Section de profil disponible \nuniquement après avoir entré \nles données requises.",
+    "es": "Sección de perfil disponible \nsolo después de entrados los datos requeridos."
+  },
+  "health_diary_how": {
+    "en": "How was your day?",
+    "it": "Com’è stata la tua giornata?",
+    "pl": "Jak minął Ci dzień?",
+    "de": "Wie war Ihr Tag?",
+    "fr": "Avez-vous passé une bonne journée",
+    "es": "¿Cómo pasó el día?"
+  },
+  "profile_firstname": {
+    "en": "First name",
+    "it": "Nome",
+    "pl": "Imię",
+    "de": "Vorname",
+    "fr": "Prénom",
+    "es": "Nombre"
+  },
+  "regsteps_lang_label": {
+    "en": "Language",
+    "it": "Lingua",
+    "pl": "Język",
+    "de": "Sprache",
+    "fr": "Langue",
+    "es": "Idioma"
+  },
+  "health_diary_everyday": {
+    "en": "Everyday at",
+    "it": "Ogni giorno alle",
+    "pl": "Codziennie o",
+    "de": "Täglich um",
+    "fr": "Quotidiennement à",
+    "es": "Cada día a las"
+  },
+  "todo_activities_etiology": {
+    "en": "Etiology",
+    "it": "Eziologia",
+    "pl": "Etiologia",
+    "de": "Ätiologie",
+    "fr": "Etiologie",
+    "es": "Etiología"
+  },
+  "drawer_close": {
+    "en": "Close",
+    "it": "Chiudi",
+    "pl": "Zamknij",
+    "de": "Schliessen",
+    "fr": "Fermer",
+    "es": "Cerrar"
+  },
+  "health_diary_suggest": {
+    "en": "We suggest you fill out the diary before \ngoing to sleep in order to keep track of your \ndaily symptoms and seizures.",
+    "it": "Ti suggeriamo di compilare il diario prima \ndi andare a dormire per tenere traccia dei tuoi \nsintomi e crisi",
+    "pl": "Sugerujemy dokonywać wpisu \nprzed snem aby śledzić \nobjawy i napady",
+    "de": "Wir empfehlen das Tagebuch vor \ndem Schlafen auszufüllen um die täglichen \nSymptome und Anfälle zu folgen",
+    "fr": "Nous vous invitons à remplir \nvotre journal de bord avant de vous coucher \nafin de conserver une trace de vos symptomes \net et de vos crises.",
+    "es": "Nosotros sugerimos completar \nel diario antes de ir a dormir para mantener \nel registro de las crisis y síntomas diariamente."
+  },
+  "email_psw": {
+    "en": "Password",
+    "it": "Password",
+    "pl": "Hasło",
+    "de": "Passwort",
+    "fr": "Mot de passe",
+    "es": "Contraseña"
+  },
+  "drawer2_lab_tests": {
+    "en": "My laboratory tests settings",
+    "it": "Impostazioni delle mie analisi",
+    "pl": "Ustawienia badań laboratoryjnych",
+    "de": "Einstellungen meiner Laborversuche",
+    "fr": "Enregistrer un rendez-vous pour des analyses médicales",
+    "es": "La configuración de mis pruebas de laboratorio"
+  },
+  "popup_permission": {
+    "en": "You must allow access to the camera and microphone to enable the video call",
+    "it": "Devi consentire all'app di accedere alla videocamera e al microfono per consentire la video chiamata",
+    "pl": "Musisz zezwolić na dostęp do kamery i mikrofonu, aby umożliwić połączenie wideo",
+    "de": "Du musst den Zugriff auf Kamera und Mikrofon zulassen, um den Videoanruf zu ermöglichen",
+    "fr": "Vous devez autoriser l'accès à la caméra et au microphone pour activer l'appel vidéo",
+    "es": "Usted debe permitir el acceso a la cámara y un micrófono para posibilitar la video llamada"
+  },
+  "drawer2_treatments": {
+    "en": "My treatments settings",
+    "it": "Impostazioni dei miei trattamenti",
+    "pl": "Ustawienia mojego leczenia",
+    "de": "Einstellungen meiner Behandlungen",
+    "fr": "Paramétrer mes traitements",
+    "es": "La configuración de mis tratamientos"
+  },
+  "lab_tests_no": {
+    "en": "No reminder",
+    "it": "Nessun promemoria",
+    "pl": "Brak przypomnienia",
+    "de": "Keine Errinerung",
+    "fr": "Aucun rappel",
+    "es": "Ningún recordatorio"
+  },
+  "home_report": {
+    "en": "Report",
+    "it": "Report",
+    "pl": "Raport",
+    "de": "Bericht",
+    "fr": "Compte-rendu",
+    "es": "Reporte"
+  },
+  "registration_psw": {
+    "en": "Insert password",
+    "it": "Inserire una password per effettuare l'accesso",
+    "pl": "Wpisz hasło",
+    "de": "Passwort eingeben",
+    "fr": "Indiquez votre mot de passe",
+    "es": "Inserte contraseña"
+  },
+  "treat_end_hint": {
+    "en": "End date of treatment (DD/MM/YYYY)",
+    "it": "Data finale del trattamento (GG/MM/AAAA)",
+    "pl": "Data zakończenia leczenia (DD/MM/RRRR)",
+    "de": "Ende der Behandlung (TT/MM/JJJJ)",
+    "fr": "JJ/MM/AAAA",
+    "es": "Fecha terminación de tratamiento (DD/MM/AAAA)"
+  },
+  "treat_reminders": {
+    "en": "Treatments recap",
+    "it": "Promemoria trattamenti",
+    "pl": "Przypomnienia o lekarstwach",
+    "de": "Medikamentenerinnerungen",
+    "fr": "Récapitulatif traitements",
+    "es": "Recordatorio de tratamiento"
+  },
+  "add_photo_add": {
+    "en": "Customize your app by adding a photo.\nThis will help your doctor recognise you.",
+    "it": "Personalizza la tua app aggiungendo una foto. \nQuesto aiuterà il dottore a riconoscerti.",
+    "pl": "Dodaj zdjęcie pacjenta które zobaczy Twój lekarz po połączeniu. \nZrób zdjęcie teraz lub dodaj je z galerii zdjęć w telefonie",
+    "de": "Fügen Sie ein Patientenfoto hinzu, das der Arzt sehen wird, wenn Sie verbunden sind. \nNehmen Sie es jetzt auf oder laden Sie es von Ihrem Telefon hoch.",
+    "fr": "Personnaliser votre appli en ajoutant une photo. \nCeci aidera votre médecin à vous reconnaitre lors de votre mise en relation.",
+    "es": "Personaliza tu aplicación agregando una foto.\nEsto ayudará a su médico a reconocerlo."
+  },
+  "treatments_seizure_cancel": {
+    "en": "CANCEL THE SEIZURE",
+    "it": "CANCELLA LA CRISI",
+    "pl": "ANULUJ NAPAD",
+    "de": "DEN ANFALL ABBRECHEN",
+    "fr": "SUPPRIMER LA CRISE",
+    "es": "CANCELA LA CRISIS"
+  },
+  "treat_": {
+    "en": "Add a treatment",
+    "it": "Aggiungi un trattamento",
+    "pl": "Dodaj badanie",
+    "de": "Behandlung hinzufügen",
+    "fr": "Ajouter un traitement",
+    "es": "Adiciona un tratamiento"
+  },
+  "profile_bio": {
+    "en": "Bio",
+    "it": "Biografia",
+    "pl": "Biografia",
+    "de": "Biografie",
+    "fr": "Biographie",
+    "es": "Biografía"
+  },
+  "not_see_later": {
+    "en": "SEE LATER",
+    "it": "VEDI PIU' TARDI",
+    "pl": "ZOBACZ PÓŹNIEJ",
+    "de": "SIEHE SPÄTER",
+    "fr": "VOIR PLUS TARD",
+    "es": "VER MAS TARDE"
+  },
+  "email_resubmit": {
+    "en": "RESUBMIT",
+    "it": "INVIA DI NUOVO",
+    "pl": "PRZEŚLIJ PONOWNIE",
+    "de": "ERNEUT SENDEN",
+    "fr": "RESOUMETTRE",
+    "es": "REENVIAR"
+  },
+  "treatments_etiology": {
+    "en": "Etiology",
+    "it": "Eziologia",
+    "pl": "Etiologia",
+    "de": "Ätiologie",
+    "fr": "Etiologie",
+    "es": "Etiología"
+  },
+  "button_invio": {
+    "en": "SEND",
+    "it": "INVIA",
+    "pl": "WYŚLIJ",
+    "de": "SENDEN",
+    "fr": "ENVOYER",
+    "es": "ENVIAR"
+  },
+  "drawer_lab_tests": {
+    "en": "My laboratory tests",
+    "it": "Le mie analisi",
+    "pl": "Moje badania laboratoryjne",
+    "de": "Meine Laborversuche",
+    "fr": "Rendez-vous pour mes analyses",
+    "es": "Mis pruebas de laboratorio"
+  },
+  "intro_3sub": {
+    "en": "Create reports of treatments, symptomps and \nseizures and share it with your doctor.",
+    "it": "Crea report dei trattamenti, sintomi e \ncrisi e condividili con il tuo medico.",
+    "pl": "Twórz raporty o leczeniu, objawach i \napadach i podziel się nimi z Twoim lekarzem. ",
+    "de": "Berichte über Behandlungen, Symptome und \nAnfälle erstellen und mit dem Arzt teilen",
+    "fr": "Créer votre journal de bord médical personnalisé, visualiser votre usage des traitements, vos symptômes, vos crises et partager ces informations avec votre médecin",
+    "es": "Crear reportes de tratamientos, síntomas y \ncrisis y compártalas con su médico."
+  },
+  "add_photo_skip": {
+    "en": "SKIP",
+    "it": "SALTA",
+    "pl": "POMIŃ",
+    "de": "ÜBERSPRINGEN",
+    "fr": "SUIVANT",
+    "es": "SALTAR"
+  },
+  "exam_add": {
+    "en": "Add specialist exams",
+    "it": "Aggiungi esame specialistico",
+    "pl": "Dodaj badanie specjalistyczne",
+    "de": "Fachärztliche Untersuchungen hinzufügen",
+    "fr": "Ajouter un rendez-vous \nchez le spécialiste",
+    "es": "Adiciona exámenes especializados"
+  },
+  "add_photo_camera": {
+    "en": "Camera",
+    "it": "Videocamera",
+    "pl": "Aparat",
+    "de": "Fotoapparat",
+    "fr": "Utiliser la camera",
+    "es": "Cámara"
+  },
+  "document": {
+    "en": "Document",
+    "it": "Documento",
+    "pl": "Dokument",
+    "de": "Dokument",
+    "fr": "Document",
+    "es": "Documento"
+  },
+  "attached": {
+    "en": "Add an attachment",
+    "it": "Aggiungi allegato",
+    "pl": "Dodaj załącznik",
+    "de": "Füge einen Anhang hinzu",
+    "fr": "Ajouter une pièce jointe",
+    "es": "Agregar un adjunto"
+  },
+  "edit_attached": {
+    "en": "Edit attachment",
+    "it": "Modifica allegato",
+    "pl": "Edytuj załącznik",
+    "de": "Anhang bearbeiten",
+    "fr": "Modifier la pièce jointe",
+    "es": "Modificar adjunto"
+  },
+  "see_attached": {
+    "en": "See attachment",
+    "it": "Vedi allegato",
+    "pl": "Zobacz załącznik",
+    "de": "Siehe Anhang",
+    "fr": "Voir pièce jointe",
+    "es": "Ver adjunto"
+  },
+  "add_photo_gallery": {
+    "en": "Gallery",
+    "it": "Galleria",
+    "pl": "Galeria zdjęć",
+    "de": "Galerie",
+    "fr": "Galerie",
+    "es": "Galería"
+  },
+  "todo_activities_diagnosis": {
+    "en": "Diagnosis",
+    "it": "Diagnosi",
+    "pl": "Diagnoza",
+    "de": "Diagnose",
+    "fr": "Diagnostique",
+    "es": "Diagnóstico"
+  },
+  "not_height": {
+    "en": "Update height reminder",
+    "it": "Aggiorna il promemoria dell’altezza",
+    "pl": "Zaktualizuj przypomnienie o wzroście",
+    "de": "Höhenerinnerung aktualisieren",
+    "fr": "Rappel d'actualisation de la taille",
+    "es": "Actualizar recordatorio de talla"
+  },
+  "treatments_whattime": {
+    "en": "What time?",
+    "it": "A che ora?",
+    "pl": "O której godzinie?",
+    "de": "Um wie viel Uhr?",
+    "fr": "À quelle heure?",
+    "es": "¿A qué hora?"
+  },
+  "registration_login": {
+    "en": "LOGIN",
+    "it": "LOGIN",
+    "pl": "ZALOGUJ SIĘ",
+    "de": "ANMELDUNG",
+    "fr": "CONNECTER",
+    "es": "CONECTAR"
+  },
+  "exam_ex_type": {
+    "en": "Ex: Magnetic Resonance",
+    "it": "Ad es: Risonanza magnetica",
+    "pl": "Np. rezonans magnetyczny",
+    "de": "z.B. Magnetresonanz",
+    "fr": "Ex: Scanner",
+    "es": "Ej: Resonancia Magnética"
+  },
+  "registration_now": {
+    "en": "COMPLETE NOW",
+    "it": "COMPLETA ORA",
+    "pl": "UZUPEŁNIJ TERAZ",
+    "de": "VERVOLLSTÄNDIGE ES JETZT",
+    "fr": "COMPLETER MAINTENANT",
+    "es": "COMPLETAR AHORA"
+  },
+  "add_photo_done": {
+    "en": "DONE",
+    "it": "FATTO",
+    "pl": "ZROBIONE",
+    "de": "FERTIG",
+    "fr": "ENREGISTRER",
+    "es": "HECHO"
+  },
+  "emergency_medicinals": {
+    "en": "Emergency treatments",
+    "it": "Farmaci di emergenza",
+    "pl": "Leczenie ratunkowe",
+    "de": "Notfallbehandlungen",
+    "fr": "Traitements d'urgence",
+    "es": "Tratamientos de emergencia"
+  },
+  "emergency_medicanals_farmaco": {
+    "en": "Treatment of",
+    "it": "Farmaco di",
+    "pl": "Leczenie",
+    "de": "Behandlung von",
+    "fr": "Traitement de",
+    "es": "Tratamiento de"
+  },
+  "emergency_medicanals_da_somministrare": {
+    "en": "to be administered",
+    "it": "da somministrare",
+    "pl": "do podania",
+    "de": "zur Verabreichung",
+    "fr": "à administrer",
+    "es": "a suministrar"
+  },
+  "emergency_medicanals_minuti": {
+    "en": "minutes after the start of the crisis",
+    "it": "minuti dopo l'inizio della crisi",
+    "pl": "kilka minut po rozpoczęciu kryzysu",
+    "de": "Minuten nach dem Beginn der Krise",
+    "fr": "minutes après le début de la crise",
+    "es": "minutos depués del inicio de la crisis"
+  },
+  "type_a_message": {
+    "en": "Type a message...",
+    "it": "Scrivi un messaggio...",
+    "pl": "Napisz wiadomość…",
+    "de": "Gib eine Nachricht ein…",
+    "fr": "Écrire un message…",
+    "es": "Escribe un mensaje"
+  },
+  "reminder_date": {
+    "en": "Reminder date",
+    "it": "Data del promemoria",
+    "pl": "Data przypomnienia",
+    "de": "Erinnerungsdatum",
+    "fr": "Date de rappel",
+    "es": "Fecha del recordatorio"
+  },
+  "reminder_date_hint": {
+    "en": "Reminder date (DD/MM/YYYY)",
+    "it": "Data del promemoria (GG/MM/AAAA)",
+    "pl": "Data przypomnienia (DD/MM/RRRR)",
+    "de": "Erinnerungsdatum (TT/MM/JJJJ)",
+    "fr": "JJ/MM/AAAA",
+    "es": "Fecha del recordatorio (DD/MM/AAAA)"
+  },
+  "dose_non_corretto": {
+    "en": "Insert at least one dose",
+    "it": "Inserisci almeno una dose",
+    "pl": "Wprowadź co najmniej jedną dawkę",
+    "de": "Geben Sie mindestens eine Dosis ein",
+    "fr": "Insérez au moins une dose",
+    "es": "Inserte al menos una dosis"
+  },
+  "val_dose_non_corretto": {
+    "en": "The value of the dose is not correct",
+    "it": "Valore dose non corretto",
+    "pl": "Wartość dawki jest nieprawidłowa",
+    "de": "Der Wert der Dosis ist nicht korrekt",
+    "fr": "La valeur de la dose n'est pas correcte",
+    "es": "El valor de la dosis no es correcto"
+  },
+  "treat_comments": {
+    "en": "Intake information",
+    "it": "Commenti",
+    "pl": "Komentarze",
+    "de": "Bemerkungen",
+    "fr": "Condition de prise",
+    "es": "Información de la toma"
+  },
+  "anteprima": {
+    "en": "Preview",
+    "it": "Anteprima",
+    "pl": "Podgląd",
+    "de": "Vorschau",
+    "fr": "Aperçu",
+    "es": "Vista anticipada"
+  },
+  "capture_photo": {
+    "en": "Take a photo",
+    "it": "Scatta una foto",
+    "pl": "Zrób zdjęcie",
+    "de": "Mach ein Foto",
+    "fr": "Prendre une photo",
+    "es": "Tomar una foto"
+  },
+  "gallery_photo": {
+    "en": "Photo from gallery",
+    "it": "Foto dalla galleria",
+    "pl": "Zdjęcie z galerii",
+    "de": "Foto aus der Galerie",
+    "fr": "Photo depuis la galerie",
+    "es": "Foto de la galería"
+  },
+  "hello_str": {
+    "en": "Hello",
+    "it": "Ciao",
+    "pl": "Dzień dobry",
+    "de": "Hallo",
+    "fr": "Bonjour",
+    "es": "Hola"
+  },
+  "popup_attention_tel": {
+    "en": "The phone number already exists",
+    "it": "Il numero di telefono esiste già",
+    "pl": "Numer telefonu już istnieje",
+    "de": "Die Telefonnummer existiert bereits",
+    "fr": "Le numéro de téléphone existe déjà",
+    "es": "El númeto de teléfono ya existe"
+  },
+  "devi_prima_agg":
+  {
+    "en": "You must first complete the previous tasks",
+    "it": "Devi prima completare le attività precedenti",
+    "pl": "Najpierw musisz wykonać poprzednie czynności",
+    "de": "Du musst zuerst die vorherigen Aktivitäten abschließen",
+    "fr": "Vous devez d'abord renseigner les inforations précédentes",
+    "es": "Debe completar primero las actividades previas"
+  },
+  "step": {
+    "en": "Step",
+    "it": "Passo",
+    "pl": "Krok",
+    "de": "Schritt",
+    "fr": "Étape",
+    "es": "Paso"
+  },
+  "chiamata_rifiutata": {
+    "it": "Chiamata rifiutata",
+    "en": "Call rejected",
+    "pl": "Połączenie odrzucone",
+    "de": "Anruf abgelehnt",
+    "fr": "Appel refusé",
+    "es": "Llamada rechazada"
+  },
+  "chiamata_terminata": {
+    "it": "Chiamata terminata",
+    "en": "Call ended",
+    "pl": "Połączenie zakończone",
+    "de": "Anruf beendet",
+    "fr": "Appel terminé",
+    "es": "Llamada terminada"
+  },
+  "medico_chiamata_terminata": {
+    "it": "Il medico si è disconnesso dalla chiamata",
+    "en": "The doctor disconnected from the call",
+    "pl": "Lekarz przerwał połączenie",
+    "de": "Der Arzt hat die Verbindung zum Anruf getrennt",
+    "fr": "Appel terminé par le medecin",
+    "es": "El médico se desconectó de la llamada"
+  },
+  "medico_chiamata_rifiutata": {
+    "it": "Il medico è momentaneamente occupato",
+    "en": "The doctor is currently unavailable",
+    "pl": "Lekarz jest chwilowo zajęty",
+    "de": "Der Arzt ist vorübergehend beschäftigt",
+    "fr": "Le medecin ne peut repondre",
+    "es": "El médico está ahora ocupado"
+  },
+  "seleziona_un_farmaco": {
+    "it": "Seleziona un farmaco",
+    "en": "Select a treatment",
+    "pl": "Wybierz lek",
+    "de": "Wähle ein Medikament",
+    "fr": "Selectionner un traitement",
+    "es": "Selecciona un fármaco"
+  },
+  "recupero_password": {
+    "it": "Recupero password",
+    "en": "Password recovery",
+    "pl": "Odzyskiwanie hasła",
+    "de": "Passwort-Wiederherstellung",
+    "fr": "Recuperation mot de passe",
+    "es": "Recuperación de contraseña"
+  },
+  "info_password": {
+    "it": "La password deve contenere almeno 8 caratteri di cui 1 maiuscolo, 1 minuscolo e 1 numero",
+    "en": "The password must contain at least 8 characters including 1 uppercase, 1 lowercase and 1 digit",
+    "pl": "Hasło musi zawierać co najmniej 8 znaków, w tym 1 wielką literę, 1 małą literę i 1 cyfrę",
+    "de": "Das Passwort muss mindestens 8 Zeichen enthalten, darunter 1 Großbuchstabe, 1 Kleinbuchstabe und 1 Zahl",
+    "fr": "Le mot de passe doit contenir 8 caractères avec au moins 1 majuscule, 1 minuscule et 1 chiffre",
+    "es": "La contraseña debe contener 8 caracteres incluyendo al menos 1 mayúscula, 1 minúscula y 1 número"
+  },
+  "info_barcode": {
+    "it": "QR/Codice a barre disponbile solo in Francia",
+    "en": "QR/Barcode reader only available for France",
+    "pl": "QR/Kod kreskowy dostępny tylko we Francji",
+    "de": "QR/Barcode nur in Frankreich erhältlich",
+    "fr": "Lecteur de QR/code barre uniquement pour la France",
+    "es": "QR/Lector de códigos de barras solo disponible para Francia"
+  },
+  "disturbi": {
+    "en": "Metabolism and nutrition disorders",
+    "it": "Disturbi del metabolismo e della nutrizione",
+    "pl": "Zaburzenia metabolizmu i odżywiania",
+    "de": "Stoffwechsel- und Ernährungsstörungen",
+    "fr": "Troubles du métabolisme et de la nutrition",
+    "es": "Trastornos del metabolismo y de la nutrición"
+  },
+  "test_version": {
+    "en": "Test version",
+    "it": "Test version",
+    "pl": "Test version",
+    "de": "Test version",
+    "fr": "Test version",
+    "es": "Test version"
+  }
+}
